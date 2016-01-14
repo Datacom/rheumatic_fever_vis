@@ -2,8 +2,8 @@
 
 projection = d3.geo.mercator()
             .center([170,-42])
-            .scale(1600)
-            .translate([220, 320]); // width, height 
+            .scale(1700)
+            .translate([160, 340]); // width, height 
 
 //-----------------Colours-------------------------------
 

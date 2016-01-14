@@ -36,18 +36,35 @@
           </div>
       </div>
       <div class="row"> 
+      <div class="col-sm-7">
         <div id="DHB" class="col-sm-6">
               <legend><a href='javascript:DHB_chart.filterAll(); dc.redrawAll()' class='pull-right reset' style='display:none;'><i class="fa fa-refresh"> </i> </a></legend>
         </div>
-        <div id="age" class="col-sm-3">
+
+        
+        <div id="age" class="col-sm-6">
               <legend><a href='javascript:age_chart.filterAll(); dc.redrawAll()' class='pull-right reset' style='display:none;'><i class="fa fa-refresh"> </i> </a></legend>
         </div>
-        <div id="ethnicity" class="col-sm-3">
+        <div id="ethnicity" class="col-sm-6">
                 <legend><a href='javascript:ethnicity_chart.filterAll(); dc.redrawAll()' class='pull-right reset' style='display:none;'><i class="fa fa-refresh"> </i> </a></legend>
         </div>
-         <div id="gender" class="col-sm-3">
+         <div id="gender" class="col-sm-6">
                 <legend><a href='javascript:gender_chart.filterAll(); dc.redrawAll()' class='pull-right reset' style='display:none;'><i class="fa fa-refresh"> </i> </a></legend>
         </div>
+        </div>  
+        <div id="region_map" class="col-sm-5">
+                <legend>
+                  <span class = 'pull-right'>
+                    <i class="fa fa-refresh" style='visibility:hidden;'></i> <!-- was only for pure layout madness reasons -->
+                    <a href='javascript:region_map.filterAll(); dc.redrawAll()' class='reset' style='display:none;'><i class="fa fa-refresh"></i></a>
+                    <a id='resetPosition' href='javascript:region_map.projection(projection.scale(1600).translate([220, 320]));
+                                                zoom.scale(1600).translate([220, 320]); 
+                                                hideReset(); 
+                                                dc.redrawAll()' class='hidden'><i class="fa fa-arrows-alt"></i> </a>
+                  </span>
+                </legend>
+        </div> 
+        
       </div>        
     </div>
 
