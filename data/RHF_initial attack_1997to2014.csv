@@ -1,0 +1,2213 @@
+Year,Gender,Agegp,Ethnicity,DHB
+1997,Female, 5 to 9  ,Pacific Peoples,Auckland
+1997,Female, 5 to 9  ,Pacific Peoples,Auckland
+1997,Male, 5 to 9  ,Pacific Peoples,Auckland
+1997,Male, 5 to 9  ,Maori,Auckland
+1997,Female,10 to 14,Pacific Peoples,Auckland
+1997,Female,10 to 14,Pacific Peoples,Auckland
+1997,Female,10 to 14,Maori,Auckland
+1997,Female,10 to 14,Pacific Peoples,Auckland
+1997,Male,10 to 14,Pacific Peoples,Auckland
+1997,Male,10 to 14,Pacific Peoples,Auckland
+1997,Male,10 to 14,Unknown,Auckland
+1997,Male,10 to 14,Pacific Peoples,Auckland
+1997,Female,15 to 19,Pacific Peoples,Auckland
+1997,Male,15 to 19,Pacific Peoples,Auckland
+1997,Female,30 to 39,Pacific Peoples,Auckland
+1997,Male,30 to 39,Unknown,Auckland
+1997,Female,10 to 14,Maori,Bay of Plenty
+1997,Male,10 to 14,Unknown,Bay of Plenty
+1997,Female,15 to 19,Unknown,Canterbury
+1997,Female,20 to 29,Unknown,Canterbury
+1997,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+1997,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+1997,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+1997,Female,10 to 14,Pacific Peoples,Capital and Coast
+1997,Female,15 to 19,Pacific Peoples,Capital and Coast
+1997,Female, 1 to 4  ,Unknown,Counties Manukau
+1997,Female, 5 to 9  ,European,Counties Manukau
+1997,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+1997,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+1997,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+1997,Female, 5 to 9  ,Unknown,Counties Manukau
+1997,Female, 5 to 9  ,Unknown,Counties Manukau
+1997,Female, 5 to 9  ,Maori,Counties Manukau
+1997,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+1997,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+1997,Female,10 to 14,Maori,Counties Manukau
+1997,Female,10 to 14,Unknown,Counties Manukau
+1997,Female,10 to 14,Unknown,Counties Manukau
+1997,Male,10 to 14,Maori,Counties Manukau
+1997,Male,10 to 14,Pacific Peoples,Counties Manukau
+1997,Male,10 to 14,Maori,Counties Manukau
+1997,Male,10 to 14,European,Counties Manukau
+1997,Male,10 to 14,Pacific Peoples,Counties Manukau
+1997,Male,10 to 14,Pacific Peoples,Counties Manukau
+1997,Male,10 to 14,Maori,Counties Manukau
+1997,Female,15 to 19,Pacific Peoples,Counties Manukau
+1997,Female,15 to 19,Unknown,Counties Manukau
+1997,Male,15 to 19,Pacific Peoples,Counties Manukau
+1997,Male,15 to 19,European,Counties Manukau
+1997,Female,20 to 29,Unknown,Counties Manukau
+1997,Male,20 to 29,Pacific Peoples,Counties Manukau
+1997,Male,20 to 29,Pacific Peoples,Counties Manukau
+1997,Female,30 to 39,Pacific Peoples,Counties Manukau
+1997,Female,30 to 39,Maori,Counties Manukau
+1997,Male, 1 to 4  ,Maori,Hawke's Bay
+1997,Female, 5 to 9  ,Maori,Hawke's Bay
+1997,Male, 5 to 9  ,Maori,Hawke's Bay
+1997,Female, 5 to 9  ,Maori,Northland
+1997,Female, 5 to 9  ,Maori,Northland
+1997,Female,10 to 14,Maori,Northland
+1997,Female,10 to 14,Maori,Northland
+1997,Male,10 to 14,Maori,Northland
+1997,Male,10 to 14,European,Northland
+1997,Male,10 to 14,Maori,Northland
+1997,Male,10 to 14,Maori,Northland
+1997,Male,10 to 14,Maori,Northland
+1997,Male, 5 to 9  ,Maori,Southern
+1997,Female,10 to 14,Unknown,Southern
+1997,Male,10 to 14,Maori,Southern
+1997,Male,10 to 14,Maori,Southern
+1997,Male,10 to 14,Maori,Southern
+1997,Male,10 to 14,European,Southern
+1997,Unknown,10 to 14,Maori,Southern
+1997,Female,20 to 29,Maori,Southern
+1997,Female, 5 to 9  ,European,Tairawhiti
+1997,Female, 5 to 9  ,Maori,Tairawhiti
+1997,Male, 5 to 9  ,Maori,Tairawhiti
+1997,Female,10 to 14,Maori,Tairawhiti
+1997,Female,10 to 14,Maori,Tairawhiti
+1997,Male,10 to 14,Maori,Tairawhiti
+1997,Male,15 to 19,European,Tairawhiti
+1997,Male,10 to 14,Maori,Taranaki
+1997,Female, 5 to 9  ,European,Waikato
+1997,Female,10 to 14,Maori,Waikato
+1997,Female,10 to 14,Unknown,Waikato
+1997,Male,10 to 14,Maori,Waikato
+1997,Male,10 to 14,Maori,Waikato
+1997,Female, 5 to 9  ,Maori,Waitemata
+1997,Male, 5 to 9  ,Pacific Peoples,Waitemata
+1997,Male,10 to 14,Maori,Waitemata
+1997,Male,10 to 14,Pacific Peoples,Waitemata
+1997,Male,10 to 14,Pacific Peoples,Waitemata
+1997,Female,10 to 14,Maori,Whanganui
+1998,Female, 5 to 9  ,Pacific Peoples,Auckland
+1998,Female,10 to 14,Pacific Peoples,Auckland
+1998,Female,10 to 14,Unknown,Bay of Plenty
+1998,Male,10 to 14,European,Bay of Plenty
+1998,Male, 1 to 4  ,Other,Capital and Coast
+1998,Female, 5 to 9  ,Maori,Capital and Coast
+1998,Female, 5 to 9  ,Maori,Capital and Coast
+1998,Male, 5 to 9  ,European,Capital and Coast
+1998,Female,10 to 14,Pacific Peoples,Capital and Coast
+1998,Female,15 to 19,Pacific Peoples,Capital and Coast
+1998,Female,20 to 29,Pacific Peoples,Capital and Coast
+1998,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+1998,Female,10 to 14,Maori,Counties Manukau
+1998,Female,10 to 14,Pacific Peoples,Counties Manukau
+1998,Female,10 to 14,Pacific Peoples,Counties Manukau
+1998,Female,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,10 to 14,Unknown,Counties Manukau
+1998,Male,10 to 14,Pacific Peoples,Counties Manukau
+1998,Male,15 to 19,Pacific Peoples,Counties Manukau
+1998,Female,20 to 29,Pacific Peoples,Counties Manukau
+1998,Female,10 to 14,European,Hawke's Bay
+1998,Female,10 to 14,Maori,Hawke's Bay
+1998,Female,10 to 14,Maori,Hawke's Bay
+1998,Male,10 to 14,Maori,Hawke's Bay
+1998,Male,10 to 14,Maori,Hawke's Bay
+1998,Male,10 to 14,European,Hawke's Bay
+1998,Female,10 to 14,Maori,Hutt Valley
+1998,Female,10 to 14,Pacific Peoples,Hutt Valley
+1998,Male,10 to 14,Maori,Hutt Valley
+1998,Male, 5 to 9  ,European,Nelson Marlborough
+1998,Female, 5 to 9  ,Maori,Northland
+1998,Male, 5 to 9  ,Maori,Northland
+1998,Female,10 to 14,Maori,Northland
+1998,Male,10 to 14,Maori,Northland
+1998,Unknown,50 to 59,European,Northland
+1998,Female,10 to 14,European,Tairawhiti
+1998,Female,10 to 14,Maori,Tairawhiti
+1998,Male,10 to 14,Maori,Tairawhiti
+1998,Male, 5 to 9  ,European,Taranaki
+1998,Female, 5 to 9  ,Maori,Waikato
+1998,Female, 5 to 9  ,Maori,Waikato
+1998,Male, 5 to 9  ,Maori,Waikato
+1998,Male, 5 to 9  ,Maori,Waikato
+1998,Female,10 to 14,Unknown,Waikato
+1998,Female,10 to 14,European,Waikato
+1998,Female,10 to 14,Unknown,Waikato
+1998,Female,10 to 14,Maori,Waikato
+1998,Female,10 to 14,Maori,Waikato
+1998,Female,10 to 14,Maori,Waikato
+1998,Male,10 to 14,Maori,Waikato
+1998,Male,10 to 14,Maori,Waikato
+1998,Male,10 to 14,Unknown,Waikato
+1998,Male,10 to 14,Maori,Waikato
+1998,Female,15 to 19,Unknown,Waikato
+1998,Male,15 to 19,Maori,Waikato
+1998,Male,15 to 19,Pacific Peoples,Waikato
+1998,Male,20 to 29,Unknown,Waikato
+1998,Female, 5 to 9  ,Maori,Wairarapa
+1998,Male, 5 to 9  ,Maori,Wairarapa
+1998,Female,15 to 19,Pacific Peoples,Waitemata
+1999,Female, 5 to 9  ,Maori,Auckland
+1999,Female, 5 to 9  ,Pacific Peoples,Auckland
+1999,Male, 5 to 9  ,Pacific Peoples,Auckland
+1999,Female,10 to 14,Pacific Peoples,Auckland
+1999,Female,10 to 14,Maori,Auckland
+1999,Male,10 to 14,Pacific Peoples,Auckland
+1999,Male,10 to 14,Pacific Peoples,Auckland
+1999,Unknown,10 to 14,Maori,Auckland
+1999,Unknown,10 to 14,European,Auckland
+1999,Female,30 to 39,Other,Auckland
+1999,Female, 1 to 4  ,Maori,Bay of Plenty
+1999,Female, 5 to 9  ,Maori,Bay of Plenty
+1999,Male, 5 to 9  ,Maori,Bay of Plenty
+1999,Male, 5 to 9  ,Maori,Bay of Plenty
+1999,Female,10 to 14,Maori,Bay of Plenty
+1999,Male, 1 to 4  ,European,Capital and Coast
+1999,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+1999,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+1999,Male, 5 to 9  ,Maori,Capital and Coast
+1999,Female,10 to 14,Pacific Peoples,Capital and Coast
+1999,Male,15 to 19,Pacific Peoples,Capital and Coast
+1999,Male, 5 to 9  ,Maori,Counties Manukau
+1999,Male, 5 to 9  ,European,Counties Manukau
+1999,Male, 5 to 9  ,European,Counties Manukau
+1999,Female,10 to 14,Maori,Counties Manukau
+1999,Female,10 to 14,Maori,Counties Manukau
+1999,Female,10 to 14,Pacific Peoples,Counties Manukau
+1999,Female,10 to 14,Maori,Counties Manukau
+1999,Female,10 to 14,European,Counties Manukau
+1999,Male,10 to 14,Maori,Counties Manukau
+1999,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+1999,Male,20 to 29,Pacific Peoples,Counties Manukau
+1999,Female,30 to 39,Unknown,Counties Manukau
+1999,Female,10 to 14,Pacific Peoples,Hawke's Bay
+1999,Female, 5 to 9  ,Maori,Hutt Valley
+1999,Male,15 to 19,Unknown,Hutt Valley
+1999,Male,15 to 19,Pacific Peoples,Hutt Valley
+1999,Female, 5 to 9  ,Maori,Lakes
+1999,Male, 5 to 9  ,Maori,Lakes
+1999,Male, 5 to 9  ,Maori,Lakes
+1999,Female,10 to 14,Maori,Lakes
+1999,Female,10 to 14,Maori,Lakes
+1999,Female, 1 to 4  ,Maori,Northland
+1999,Female, 5 to 9  ,Maori,Northland
+1999,Female, 5 to 9  ,Maori,Northland
+1999,Female, 5 to 9  ,Maori,Northland
+1999,Female,10 to 14,Maori,Northland
+1999,Male,10 to 14,European,Northland
+1999,Male,10 to 14,Maori,Northland
+1999,Male,10 to 14,Maori,Northland
+1999,Male,10 to 14,European,Northland
+1999,Male,10 to 14,Maori,Northland
+1999,Male,10 to 14,Maori,Northland
+1999,Male,10 to 14,Maori,Northland
+1999,Female, 5 to 9  ,Maori,Tairawhiti
+1999,Male, 5 to 9  ,Maori,Tairawhiti
+1999,Male, 5 to 9  ,Maori,Tairawhiti
+1999,Female,10 to 14,Maori,Tairawhiti
+1999,Female,10 to 14,Maori,Tairawhiti
+1999,Male,10 to 14,Maori,Tairawhiti
+1999,Female,15 to 19,Maori,Tairawhiti
+1999,Female, 5 to 9  ,Maori,Taranaki
+1999,Female, 5 to 9  ,Unknown,Waikato
+1999,Female,10 to 14,Maori,Waikato
+1999,Female,10 to 14,Maori,Waikato
+1999,Female,15 to 19,Maori,Waikato
+1999,Female,15 to 19,Unknown,Waikato
+1999,Female,15 to 19,Unknown,Waikato
+1999,Male,15 to 19,Maori,Waikato
+1999,Female,10 to 14,Pacific Peoples,Wairarapa
+1999,Male, 1 to 4  ,Maori,Whanganui
+1999,Female,10 to 14,Maori,Whanganui
+2000,Female, 5 to 9  ,Pacific Peoples,Auckland
+2000,Female, 5 to 9  ,Pacific Peoples,Auckland
+2000,Male, 5 to 9  ,Maori,Auckland
+2000,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2000,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2000,Female,10 to 14,Maori,Auckland
+2000,Female,10 to 14,Pacific Peoples,Auckland
+2000,Female,10 to 14,Pacific Peoples,Auckland
+2000,Male,10 to 14,Pacific Peoples,Auckland
+2000,Male,10 to 14,Pacific Peoples,Auckland
+2000,Male,10 to 14,Pacific Peoples,Auckland
+2000,Unknown,10 to 14,European,Auckland
+2000,Unknown,10 to 14,Pacific Peoples,Auckland
+2000,Unknown,10 to 14,Pacific Peoples,Auckland
+2000,Unknown,10 to 14,Unknown,Auckland
+2000,Unknown,10 to 14,Pacific Peoples,Auckland
+2000,Unknown,10 to 14,Maori,Auckland
+2000,Unknown,10 to 14,Pacific Peoples,Auckland
+2000,Female,15 to 19,Unknown,Auckland
+2000,Unknown,15 to 19,Pacific Peoples,Auckland
+2000,Female,20 to 29,Pacific Peoples,Auckland
+2000,Unknown,30 to 39,Unknown,Auckland
+2000,Unknown,30 to 39,Pacific Peoples,Auckland
+2000,Female,40 to 49,Pacific Peoples,Auckland
+2000,Female, 5 to 9  ,Maori,Bay of Plenty
+2000,Male, 5 to 9  ,Maori,Bay of Plenty
+2000,Male, 5 to 9  ,Maori,Bay of Plenty
+2000,Female,10 to 14,Maori,Bay of Plenty
+2000,Male,10 to 14,Maori,Bay of Plenty
+2000,Male,10 to 14,Maori,Bay of Plenty
+2000,Male,10 to 14,Maori,Bay of Plenty
+2000,Male,10 to 14,European,Bay of Plenty
+2000,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2000,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2000,Male,10 to 14,Pacific Peoples,Capital and Coast
+2000,Female,15 to 19,Pacific Peoples,Capital and Coast
+2000,Unknown, 1 to 4  ,European,Counties Manukau
+2000,Female, 5 to 9  ,Maori,Counties Manukau
+2000,Female, 5 to 9  ,Unknown,Counties Manukau
+2000,Male, 5 to 9  ,Maori,Counties Manukau
+2000,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Male, 5 to 9  ,Maori,Counties Manukau
+2000,Male, 5 to 9  ,Maori,Counties Manukau
+2000,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Unknown, 5 to 9  ,Maori,Counties Manukau
+2000,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2000,Female,10 to 14,Pacific Peoples,Counties Manukau
+2000,Female,10 to 14,Maori,Counties Manukau
+2000,Female,10 to 14,Maori,Counties Manukau
+2000,Female,10 to 14,Other,Counties Manukau
+2000,Male,10 to 14,Pacific Peoples,Counties Manukau
+2000,Male,10 to 14,Maori,Counties Manukau
+2000,Male,10 to 14,Maori,Counties Manukau
+2000,Male,10 to 14,Maori,Counties Manukau
+2000,Male,10 to 14,Pacific Peoples,Counties Manukau
+2000,Male,10 to 14,Maori,Counties Manukau
+2000,Male,10 to 14,Pacific Peoples,Counties Manukau
+2000,Male,10 to 14,Maori,Counties Manukau
+2000,Male,10 to 14,Pacific Peoples,Counties Manukau
+2000,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2000,Unknown,10 to 14,Maori,Counties Manukau
+2000,Unknown,10 to 14,Maori,Counties Manukau
+2000,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2000,Unknown,10 to 14,Maori,Counties Manukau
+2000,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2000,Unknown,10 to 14,Maori,Counties Manukau
+2000,Unknown,10 to 14,Unknown,Counties Manukau
+2000,Female,15 to 19,Pacific Peoples,Counties Manukau
+2000,Female,15 to 19,Pacific Peoples,Counties Manukau
+2000,Female,15 to 19,Pacific Peoples,Counties Manukau
+2000,Female,15 to 19,Pacific Peoples,Counties Manukau
+2000,Male,15 to 19,Pacific Peoples,Counties Manukau
+2000,Male,15 to 19,Maori,Counties Manukau
+2000,Male,15 to 19,Pacific Peoples,Counties Manukau
+2000,Unknown,15 to 19,Maori,Counties Manukau
+2000,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2000,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2000,Unknown,15 to 19,Unknown,Counties Manukau
+2000,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2000,Female,20 to 29,Maori,Counties Manukau
+2000,Male,20 to 29,Pacific Peoples,Counties Manukau
+2000,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2000,Unknown,20 to 29,European,Counties Manukau
+2000,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2000,Male,30 to 39,Pacific Peoples,Counties Manukau
+2000,Female,10 to 14,European,Hawke's Bay
+2000,Female,10 to 14,European,Hawke's Bay
+2000,Male,10 to 14,European,Hawke's Bay
+2000,Male,10 to 14,Maori,Hawke's Bay
+2000,Male,10 to 14,Maori,Hawke's Bay
+2000,Male, 5 to 9  ,Pacific Peoples,Hutt Valley
+2000,Male,10 to 14,Pacific Peoples,Hutt Valley
+2000,Male, 5 to 9  ,Maori,Lakes
+2000,Female,10 to 14,Maori,Lakes
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Male, 5 to 9  ,Maori,Northland
+2000,Female,10 to 14,Maori,Northland
+2000,Female,10 to 14,Maori,Northland
+2000,Female,10 to 14,Maori,Northland
+2000,Male,10 to 14,Maori,Northland
+2000,Male,10 to 14,Maori,Northland
+2000,Female,15 to 19,Maori,Northland
+2000,Female,15 to 19,European,Northland
+2000,Male,20 to 29,Maori,Northland
+2000,Male,10 to 14,Maori,Tairawhiti
+2000,Female, 5 to 9  ,Maori,Waikato
+2000,Female, 5 to 9  ,Maori,Waikato
+2000,Male, 5 to 9  ,Maori,Waikato
+2000,Female,10 to 14,Maori,Waikato
+2000,Male,10 to 14,Maori,Waikato
+2000,Male,10 to 14,Maori,Waikato
+2000,Male,10 to 14,Unknown,Waikato
+2000,Male,10 to 14,Maori,Waikato
+2000,Male,10 to 14,Maori,Waikato
+2000,Female,15 to 19,European,Waikato
+2000,Female,15 to 19,European,Waikato
+2000,Male, 1 to 4  ,Pacific Peoples,Wairarapa
+2000,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2000,Male, 5 to 9  ,Maori,Waitemata
+2000,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2000,Male, 5 to 9  ,Maori,Waitemata
+2000,Male,10 to 14,Maori,Waitemata
+2000,Male,10 to 14,Unknown,Waitemata
+2000,Unknown,10 to 14,Pacific Peoples,Waitemata
+2000,Unknown,15 to 19,Maori,Waitemata
+2000,Female,30 to 39,Maori,Waitemata
+2000,Male,10 to 14,Maori,Whanganui
+2001,Male, 5 to 9  ,Maori,Auckland
+2001,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2001,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2001,Unknown, 5 to 9  ,Unknown,Auckland
+2001,Unknown, 5 to 9  ,Other,Auckland
+2001,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2001,Female,10 to 14,Maori,Auckland
+2001,Female,10 to 14,Pacific Peoples,Auckland
+2001,Male,10 to 14,Pacific Peoples,Auckland
+2001,Male,10 to 14,Pacific Peoples,Auckland
+2001,Unknown,10 to 14,Pacific Peoples,Auckland
+2001,Unknown,10 to 14,Maori,Auckland
+2001,Unknown,15 to 19,Pacific Peoples,Auckland
+2001,Unknown,15 to 19,Unknown,Auckland
+2001,Unknown,15 to 19,Maori,Auckland
+2001,Female,20 to 29,European,Auckland
+2001,Male,20 to 29,Pacific Peoples,Auckland
+2001,Unknown,30 to 39,Pacific Peoples,Auckland
+2001,Female, 5 to 9  ,Maori,Bay of Plenty
+2001,Male, 5 to 9  ,European,Bay of Plenty
+2001,Male, 5 to 9  ,Maori,Bay of Plenty
+2001,Male, 5 to 9  ,Maori,Bay of Plenty
+2001,Female,10 to 14,Maori,Bay of Plenty
+2001,Female,10 to 14,Maori,Bay of Plenty
+2001,Male,10 to 14,Maori,Bay of Plenty
+2001,Male,10 to 14,Maori,Bay of Plenty
+2001,Female,15 to 19,Maori,Bay of Plenty
+2001,Male, 5 to 9  ,Maori,Capital and Coast
+2001,Male,10 to 14,Maori,Capital and Coast
+2001,Male,10 to 14,Pacific Peoples,Capital and Coast
+2001,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Male, 5 to 9  ,Maori,Counties Manukau
+2001,Male, 5 to 9  ,Maori,Counties Manukau
+2001,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Unknown, 5 to 9  ,Maori,Counties Manukau
+2001,Unknown, 5 to 9  ,Maori,Counties Manukau
+2001,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2001,Female,10 to 14,Pacific Peoples,Counties Manukau
+2001,Female,10 to 14,Maori,Counties Manukau
+2001,Female,10 to 14,Maori,Counties Manukau
+2001,Female,10 to 14,Pacific Peoples,Counties Manukau
+2001,Female,10 to 14,Pacific Peoples,Counties Manukau
+2001,Female,10 to 14,Maori,Counties Manukau
+2001,Female,10 to 14,Maori,Counties Manukau
+2001,Male,10 to 14,Pacific Peoples,Counties Manukau
+2001,Male,10 to 14,Maori,Counties Manukau
+2001,Male,10 to 14,Pacific Peoples,Counties Manukau
+2001,Male,10 to 14,Maori,Counties Manukau
+2001,Male,10 to 14,Maori,Counties Manukau
+2001,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2001,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2001,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2001,Unknown,10 to 14,Maori,Counties Manukau
+2001,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2001,Unknown,10 to 14,Maori,Counties Manukau
+2001,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2001,Female,15 to 19,Pacific Peoples,Counties Manukau
+2001,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2001,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2001,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2001,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2001,Female,20 to 29,Unknown,Counties Manukau
+2001,Female,20 to 29,Pacific Peoples,Counties Manukau
+2001,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2001,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2001,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2001,Unknown,20 to 29,Maori,Counties Manukau
+2001,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2001,Female,30 to 39,Pacific Peoples,Counties Manukau
+2001,Female,30 to 39,Pacific Peoples,Counties Manukau
+2001,Female,30 to 39,Maori,Counties Manukau
+2001,Unknown,30 to 39,Pacific Peoples,Counties Manukau
+2001,Unknown,30 to 39,Pacific Peoples,Counties Manukau
+2001,Male, 1 to 4  ,Maori,Hawke's Bay
+2001,Male, 5 to 9  ,Maori,Hawke's Bay
+2001,Female,10 to 14,Pacific Peoples,Hutt Valley
+2001,Male, 1 to 4  ,Maori,Lakes
+2001,Female, 5 to 9  ,Maori,Northland
+2001,Male, 5 to 9  ,Maori,Northland
+2001,Male, 5 to 9  ,Maori,Northland
+2001,Male, 5 to 9  ,Maori,Northland
+2001,Male, 5 to 9  ,Maori,Northland
+2001,Male, 5 to 9  ,Maori,Northland
+2001,Female,10 to 14,Maori,Northland
+2001,Female,10 to 14,Maori,Northland
+2001,Female,10 to 14,Maori,Northland
+2001,Male,10 to 14,Maori,Northland
+2001,Female, 5 to 9  ,Maori,Tairawhiti
+2001,Female, 1 to 4  ,Maori,Waikato
+2001,Female, 5 to 9  ,Maori,Waikato
+2001,Female, 5 to 9  ,Unknown,Waikato
+2001,Female,10 to 14,Maori,Waikato
+2001,Female,10 to 14,Unknown,Waikato
+2001,Female,10 to 14,Unknown,Waikato
+2001,Male,10 to 14,Maori,Waikato
+2001,Male,10 to 14,Maori,Waikato
+2001,Male,10 to 14,Maori,Waikato
+2001,Male,10 to 14,Pacific Peoples,Waikato
+2001,Male,10 to 14,Maori,Wairarapa
+2001,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2001,Female, 5 to 9  ,European,Waitemata
+2001,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2001,Female, 5 to 9  ,Maori,Waitemata
+2001,Male,10 to 14,Other,Waitemata
+2001,Unknown,10 to 14,Pacific Peoples,Waitemata
+2001,Unknown,10 to 14,Pacific Peoples,Waitemata
+2001,Unknown,10 to 14,Maori,Waitemata
+2001,Unknown,15 to 19,Pacific Peoples,Waitemata
+2001,Female, 5 to 9  ,Maori,Whanganui
+2001,Male,10 to 14,Maori,Whanganui
+2002,Unknown, 1 to 4  ,Pacific Peoples,Auckland
+2002,Female, 5 to 9  ,Pacific Peoples,Auckland
+2002,Male, 5 to 9  ,Pacific Peoples,Auckland
+2002,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2002,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2002,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2002,Female,10 to 14,Pacific Peoples,Auckland
+2002,Female,10 to 14,Maori,Auckland
+2002,Male,10 to 14,Pacific Peoples,Auckland
+2002,Male,10 to 14,Pacific Peoples,Auckland
+2002,Male,10 to 14,Pacific Peoples,Auckland
+2002,Unknown,10 to 14,Pacific Peoples,Auckland
+2002,Unknown,10 to 14,Pacific Peoples,Auckland
+2002,Unknown,15 to 19,Pacific Peoples,Auckland
+2002,Female,30 to 39,Other,Auckland
+2002,Male, 5 to 9  ,Maori,Bay of Plenty
+2002,Male, 5 to 9  ,European,Bay of Plenty
+2002,Male,10 to 14,Maori,Bay of Plenty
+2002,Male,10 to 14,Maori,Bay of Plenty
+2002,Unknown,10 to 14,Unknown,Bay of Plenty
+2002,Male,15 to 19,European,Bay of Plenty
+2002,Male,20 to 29,European,Bay of Plenty
+2002,Male, 5 to 9  ,Unknown,Canterbury
+2002,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+2002,Male,10 to 14,European,Capital and Coast
+2002,Male,15 to 19,Pacific Peoples,Capital and Coast
+2002,Male,15 to 19,Pacific Peoples,Capital and Coast
+2002,Female,30 to 39,Maori,Capital and Coast
+2002,Female, 1 to 4  ,Unknown,Counties Manukau
+2002,Male, 1 to 4  ,Maori,Counties Manukau
+2002,Male, 5 to 9  ,Maori,Counties Manukau
+2002,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2002,Male, 5 to 9  ,Maori,Counties Manukau
+2002,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2002,Female,10 to 14,Maori,Counties Manukau
+2002,Female,10 to 14,Maori,Counties Manukau
+2002,Female,10 to 14,Pacific Peoples,Counties Manukau
+2002,Female,10 to 14,Pacific Peoples,Counties Manukau
+2002,Female,10 to 14,Maori,Counties Manukau
+2002,Female,10 to 14,Maori,Counties Manukau
+2002,Female,10 to 14,Pacific Peoples,Counties Manukau
+2002,Male,10 to 14,Maori,Counties Manukau
+2002,Male,10 to 14,Maori,Counties Manukau
+2002,Male,10 to 14,Pacific Peoples,Counties Manukau
+2002,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2002,Unknown,10 to 14,Unknown,Counties Manukau
+2002,Unknown,10 to 14,Unknown,Counties Manukau
+2002,Unknown,10 to 14,Unknown,Counties Manukau
+2002,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2002,Female,15 to 19,Pacific Peoples,Counties Manukau
+2002,Male,15 to 19,Pacific Peoples,Counties Manukau
+2002,Male,15 to 19,Maori,Counties Manukau
+2002,Male,15 to 19,Unknown,Counties Manukau
+2002,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2002,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2002,Unknown,15 to 19,Unknown,Counties Manukau
+2002,Male,20 to 29,Pacific Peoples,Counties Manukau
+2002,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2002,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2002,Unknown,40 to 49,Pacific Peoples,Counties Manukau
+2002,Female,10 to 14,Maori,Hawke's Bay
+2002,Male,10 to 14,Maori,Hawke's Bay
+2002,Male,20 to 29,Maori,Hawke's Bay
+2002,Male, 5 to 9  ,Maori,Hutt Valley
+2002,Female, 5 to 9  ,Maori,Lakes
+2002,Female, 5 to 9  ,Maori,Northland
+2002,Female, 5 to 9  ,Maori,Northland
+2002,Male, 5 to 9  ,Maori,Northland
+2002,Male, 5 to 9  ,Maori,Northland
+2002,Female,10 to 14,Maori,Northland
+2002,Male,10 to 14,Unknown,Northland
+2002,Female,15 to 19,Maori,Northland
+2002,Female,20 to 29,Maori,Northland
+2002,Female,10 to 14,Maori,Tairawhiti
+2002,Male,10 to 14,Maori,Tairawhiti
+2002,Female,10 to 14,Maori,Taranaki
+2002,Female, 5 to 9  ,Maori,Waikato
+2002,Male,10 to 14,Maori,Waikato
+2002,Male,10 to 14,Maori,Waikato
+2002,Female,15 to 19,Maori,Waikato
+2002,Female,20 to 29,Maori,Waikato
+2002,Male, 5 to 9  ,Maori,Wairarapa
+2002,Female,10 to 14,Pacific Peoples,Waitemata
+2002,Female,10 to 14,Pacific Peoples,Waitemata
+2002,Female,20 to 29,Maori,Waitemata
+2002,Male,20 to 29,Unknown,Waitemata
+2002,Male,10 to 14,Maori,Whanganui
+2003,Female, 5 to 9  ,Maori,Auckland
+2003,Female, 5 to 9  ,Pacific Peoples,Auckland
+2003,Male, 5 to 9  ,Pacific Peoples,Auckland
+2003,Male, 5 to 9  ,Maori,Auckland
+2003,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2003,Female,10 to 14,Pacific Peoples,Auckland
+2003,Female,10 to 14,Maori,Auckland
+2003,Female,10 to 14,Pacific Peoples,Auckland
+2003,Female,10 to 14,Pacific Peoples,Auckland
+2003,Male,10 to 14,Pacific Peoples,Auckland
+2003,Male,10 to 14,Pacific Peoples,Auckland
+2003,Male,10 to 14,Unknown,Auckland
+2003,Male,10 to 14,Pacific Peoples,Auckland
+2003,Male,10 to 14,Maori,Auckland
+2003,Male,10 to 14,Maori,Auckland
+2003,Unknown,10 to 14,Pacific Peoples,Auckland
+2003,Unknown,10 to 14,Pacific Peoples,Auckland
+2003,Unknown,10 to 14,Pacific Peoples,Auckland
+2003,Unknown,10 to 14,Pacific Peoples,Auckland
+2003,Unknown,10 to 14,Unknown,Auckland
+2003,Unknown,10 to 14,Pacific Peoples,Auckland
+2003,Unknown,10 to 14,Unknown,Auckland
+2003,Female,15 to 19,Maori,Auckland
+2003,Male,15 to 19,Maori,Auckland
+2003,Male,15 to 19,Maori,Auckland
+2003,Male,15 to 19,Pacific Peoples,Auckland
+2003,Male,15 to 19,Maori,Auckland
+2003,Male,15 to 19,Maori,Auckland
+2003,Unknown,20 to 29,Unknown,Auckland
+2003,Unknown,20 to 29,Pacific Peoples,Auckland
+2003,Female,30 to 39,Pacific Peoples,Auckland
+2003,Female,10 to 14,Maori,Bay of Plenty
+2003,Male,10 to 14,European,Bay of Plenty
+2003,Male,10 to 14,European,Bay of Plenty
+2003,Male,10 to 14,Maori,Bay of Plenty
+2003,Male,10 to 14,Maori,Bay of Plenty
+2003,Male,10 to 14,European,Bay of Plenty
+2003,Male,10 to 14,Maori,Bay of Plenty
+2003,Male,10 to 14,Pacific Peoples,Canterbury
+2003,Male,10 to 14,Pacific Peoples,Capital and Coast
+2003,Male,10 to 14,Pacific Peoples,Capital and Coast
+2003,Female,15 to 19,Other,Capital and Coast
+2003,Male, <1      ,Pacific Peoples,Counties Manukau
+2003,Female, 1 to 4  ,Maori,Counties Manukau
+2003,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2003,Female, 5 to 9  ,European,Counties Manukau
+2003,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2003,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2003,Female, 5 to 9  ,Maori,Counties Manukau
+2003,Male, 5 to 9  ,Maori,Counties Manukau
+2003,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2003,Male, 5 to 9  ,Maori,Counties Manukau
+2003,Unknown, 5 to 9  ,Maori,Counties Manukau
+2003,Unknown, 5 to 9  ,Maori,Counties Manukau
+2003,Female,10 to 14,Pacific Peoples,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Female,10 to 14,Pacific Peoples,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Female,10 to 14,Pacific Peoples,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Female,10 to 14,Pacific Peoples,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Female,10 to 14,Maori,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Maori,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Maori,Counties Manukau
+2003,Male,10 to 14,Maori,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Pacific Peoples,Counties Manukau
+2003,Male,10 to 14,Maori,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Unknown,10 to 14,Maori,Counties Manukau
+2003,Unknown,10 to 14,Maori,Counties Manukau
+2003,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2003,Female,15 to 19,Pacific Peoples,Counties Manukau
+2003,Female,15 to 19,Maori,Counties Manukau
+2003,Female,15 to 19,Maori,Counties Manukau
+2003,Unknown,15 to 19,Maori,Counties Manukau
+2003,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2003,Unknown,15 to 19,Maori,Counties Manukau
+2003,Female,20 to 29,Pacific Peoples,Counties Manukau
+2003,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2003,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2003,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2003,Unknown,20 to 29,Unknown,Counties Manukau
+2003,Female,30 to 39,Pacific Peoples,Counties Manukau
+2003,Female,30 to 39,Pacific Peoples,Counties Manukau
+2003,Female,30 to 39,Pacific Peoples,Counties Manukau
+2003,Male,30 to 39,Pacific Peoples,Counties Manukau
+2003,Male,30 to 39,Maori,Counties Manukau
+2003,Male,30 to 39,Pacific Peoples,Counties Manukau
+2003,Male, 5 to 9  ,Maori,Hawke's Bay
+2003,Male, 5 to 9  ,Maori,Hawke's Bay
+2003,Male,10 to 14,Maori,Hawke's Bay
+2003,Male,10 to 14,Maori,Hawke's Bay
+2003,Male,10 to 14,Maori,Hawke's Bay
+2003,Male,10 to 14,Maori,Hawke's Bay
+2003,Female,20 to 29,Pacific Peoples,Hawke's Bay
+2003,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2003,Male,10 to 14,Other,Hutt Valley
+2003,Female,15 to 19,Maori,Hutt Valley
+2003,Male,15 to 19,Maori,Hutt Valley
+2003,Female,20 to 29,Maori,Hutt Valley
+2003,Female,10 to 14,Maori,Lakes
+2003,Female,10 to 14,Maori,Lakes
+2003,Male,10 to 14,Unknown,Lakes
+2003,Male,10 to 14,Maori,Lakes
+2003,Male,10 to 14,Maori,MidCentral
+2003,Male,10 to 14,Unknown,MidCentral
+2003,Female, 5 to 9  ,Maori,Northland
+2003,Male, 5 to 9  ,Maori,Northland
+2003,Male, 5 to 9  ,Maori,Northland
+2003,Male, 5 to 9  ,Maori,Northland
+2003,Male,10 to 14,Maori,Northland
+2003,Male,10 to 14,Maori,Northland
+2003,Male,10 to 14,Maori,Northland
+2003,Male,10 to 14,Maori,Northland
+2003,Male, 5 to 9  ,Maori,Tairawhiti
+2003,Male,10 to 14,Maori,Tairawhiti
+2003,Female, 5 to 9  ,Unknown,Waikato
+2003,Female,10 to 14,Maori,Waikato
+2003,Female,10 to 14,Maori,Waikato
+2003,Male,10 to 14,Maori,Waikato
+2003,Male,10 to 14,Maori,Waikato
+2003,Male,10 to 14,Maori,Waikato
+2003,Male,15 to 19,Maori,Waikato
+2003,Male, 5 to 9  ,Maori,Waitemata
+2003,Male, 5 to 9  ,European,Waitemata
+2003,Unknown, 5 to 9  ,Pacific Peoples,Waitemata
+2003,Female,10 to 14,Maori,Waitemata
+2003,Female,10 to 14,Pacific Peoples,Waitemata
+2003,Male,10 to 14,Pacific Peoples,Waitemata
+2003,Male,10 to 14,Other,Waitemata
+2003,Unknown,15 to 19,Maori,Waitemata
+2003,Unknown,15 to 19,Pacific Peoples,Waitemata
+2003,Unknown,15 to 19,Pacific Peoples,Waitemata
+2003,Male,20 to 29,Maori,Waitemata
+2003,Male,10 to 14,Maori,Whanganui
+2004,Unknown, 5 to 9  ,Pacific Peoples,Auckland
+2004,Unknown,10 to 14,Pacific Peoples,Auckland
+2004,Unknown,10 to 14,Pacific Peoples,Auckland
+2004,Unknown,20 to 29,Unknown,Auckland
+2004,Female, 5 to 9  ,Maori,Bay of Plenty
+2004,Female, 5 to 9  ,Maori,Bay of Plenty
+2004,Female, 5 to 9  ,Maori,Bay of Plenty
+2004,Female,10 to 14,Maori,Bay of Plenty
+2004,Male,10 to 14,Maori,Bay of Plenty
+2004,Male,15 to 19,European,Bay of Plenty
+2004,Female,20 to 29,Maori,Bay of Plenty
+2004,Unknown, 1 to 4  ,Pacific Peoples,Capital and Coast
+2004,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2004,Female,10 to 14,Other,Capital and Coast
+2004,Male,10 to 14,Pacific Peoples,Capital and Coast
+2004,Female,15 to 19,Pacific Peoples,Capital and Coast
+2004,Male,20 to 29,Pacific Peoples,Capital and Coast
+2004,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2004,Male, 5 to 9  ,Unknown,Counties Manukau
+2004,Male, 5 to 9  ,Maori,Counties Manukau
+2004,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2004,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2004,Unknown, 5 to 9  ,Maori,Counties Manukau
+2004,Female,10 to 14,Maori,Counties Manukau
+2004,Male,10 to 14,Maori,Counties Manukau
+2004,Male,10 to 14,Maori,Counties Manukau
+2004,Unknown,10 to 14,Maori,Counties Manukau
+2004,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2004,Unknown,10 to 14,Maori,Counties Manukau
+2004,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2004,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2004,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2004,Unknown,10 to 14,Maori,Counties Manukau
+2004,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2004,Female,15 to 19,Pacific Peoples,Counties Manukau
+2004,Unknown,15 to 19,Maori,Counties Manukau
+2004,Male,20 to 29,Maori,Counties Manukau
+2004,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2004,Male,30 to 39,Maori,Counties Manukau
+2004,Unknown,30 to 39,Unknown,Counties Manukau
+2004,Female, 5 to 9  ,Maori,Hawke's Bay
+2004,Male, 5 to 9  ,Maori,Hawke's Bay
+2004,Male, 5 to 9  ,Maori,Hawke's Bay
+2004,Female,10 to 14,Maori,Hawke's Bay
+2004,Male,10 to 14,Maori,Hawke's Bay
+2004,Male,10 to 14,Maori,Hawke's Bay
+2004,Male,15 to 19,European,Hawke's Bay
+2004,Male,20 to 29,Maori,Hawke's Bay
+2004,Female,15 to 19,Pacific Peoples,Hutt Valley
+2004,Female,10 to 14,Maori,Lakes
+2004,Male, 5 to 9  ,Maori,Northland
+2004,Male, 5 to 9  ,Maori,Northland
+2004,Female,10 to 14,Maori,Northland
+2004,Female,10 to 14,Maori,Northland
+2004,Male,10 to 14,Maori,Northland
+2004,Male,10 to 14,Maori,Northland
+2004,Male,10 to 14,Maori,Northland
+2004,Male,10 to 14,Maori,Northland
+2004,Male,10 to 14,Maori,Northland
+2004,Male, 1 to 4  ,Maori,Tairawhiti
+2004,Female, 5 to 9  ,Maori,Tairawhiti
+2004,Male, 5 to 9  ,Maori,Tairawhiti
+2004,Male,10 to 14,Maori,Tairawhiti
+2004,Male,10 to 14,Maori,Tairawhiti
+2004,Female, 5 to 9  ,Maori,Waikato
+2004,Male, 5 to 9  ,Pacific Peoples,Waikato
+2004,Male, 5 to 9  ,Maori,Waikato
+2004,Male, 5 to 9  ,European,Waikato
+2004,Female,10 to 14,Maori,Waikato
+2004,Female,10 to 14,Maori,Waikato
+2004,Female,10 to 14,Maori,Waikato
+2004,Female,10 to 14,European,Waikato
+2004,Male,10 to 14,Pacific Peoples,Waikato
+2004,Male,10 to 14,Maori,Waikato
+2004,Male,10 to 14,Maori,Waitemata
+2005,Male,10 to 14,Maori,Auckland
+2005,Male, 5 to 9  ,Maori,Bay of Plenty
+2005,Male, 5 to 9  ,Maori,Bay of Plenty
+2005,Female,10 to 14,Maori,Bay of Plenty
+2005,Male,20 to 29,Maori,Bay of Plenty
+2005,Male, 5 to 9  ,Maori,Capital and Coast
+2005,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2005,Male, 5 to 9  ,Maori,Capital and Coast
+2005,Unknown, 5 to 9  ,Pacific Peoples,Capital and Coast
+2005,Female,10 to 14,Pacific Peoples,Capital and Coast
+2005,Female,10 to 14,Pacific Peoples,Capital and Coast
+2005,Male,10 to 14,Pacific Peoples,Capital and Coast
+2005,Male,10 to 14,Pacific Peoples,Capital and Coast
+2005,Male,10 to 14,Pacific Peoples,Capital and Coast
+2005,Male,15 to 19,Pacific Peoples,Capital and Coast
+2005,Female,20 to 29,Pacific Peoples,Capital and Coast
+2005,Female, 5 to 9  ,Maori,Counties Manukau
+2005,Male, 5 to 9  ,Maori,Counties Manukau
+2005,Unknown, 5 to 9  ,Unknown,Counties Manukau
+2005,Unknown, 5 to 9  ,Unknown,Counties Manukau
+2005,Female,10 to 14,Unknown,Counties Manukau
+2005,Female,10 to 14,Unknown,Counties Manukau
+2005,Male,10 to 14,Unknown,Counties Manukau
+2005,Male,10 to 14,Maori,Counties Manukau
+2005,Male,10 to 14,Unknown,Counties Manukau
+2005,Male,10 to 14,Maori,Counties Manukau
+2005,Male,10 to 14,Unknown,Counties Manukau
+2005,Male,10 to 14,Unknown,Counties Manukau
+2005,Unknown,10 to 14,Pacific Peoples,Counties Manukau
+2005,Female,15 to 19,Unknown,Counties Manukau
+2005,Male,15 to 19,Unknown,Counties Manukau
+2005,Male,15 to 19,Maori,Counties Manukau
+2005,Unknown,15 to 19,Unknown,Counties Manukau
+2005,Unknown,15 to 19,Pacific Peoples,Counties Manukau
+2005,Female,20 to 29,Unknown,Counties Manukau
+2005,Female,20 to 29,Pacific Peoples,Counties Manukau
+2005,Male,20 to 29,Unknown,Counties Manukau
+2005,Male,20 to 29,Unknown,Counties Manukau
+2005,Female, 5 to 9  ,Maori,Hawke's Bay
+2005,Female, 5 to 9  ,Maori,Hawke's Bay
+2005,Male, 5 to 9  ,Maori,Hawke's Bay
+2005,Male, 5 to 9  ,Maori,Hawke's Bay
+2005,Male,10 to 14,Pacific Peoples,Hawke's Bay
+2005,Male,10 to 14,Maori,Hawke's Bay
+2005,Male,15 to 19,Maori,Hawke's Bay
+2005,Female,10 to 14,Pacific Peoples,Hutt Valley
+2005,Male,10 to 14,Maori,Hutt Valley
+2005,Male,10 to 14,Pacific Peoples,Hutt Valley
+2005,Female,20 to 29,Pacific Peoples,Hutt Valley
+2005,Male,20 to 29,Pacific Peoples,Hutt Valley
+2005,Male,10 to 14,European,Lakes
+2005,Female, 5 to 9  ,Pacific Peoples,MidCentral
+2005,Female,10 to 14,Unknown,MidCentral
+2005,Female,20 to 29,Maori,MidCentral
+2005,Female,10 to 14,Maori,Nelson Marlborough
+2005,Female, 5 to 9  ,Maori,Northland
+2005,Male, 5 to 9  ,Maori,Northland
+2005,Male, 5 to 9  ,Maori,Northland
+2005,Female,10 to 14,Maori,Northland
+2005,Male,10 to 14,Maori,Northland
+2005,Male,10 to 14,Maori,Northland
+2005,Male,10 to 14,Maori,Northland
+2005,Female,15 to 19,Maori,Northland
+2005,Female,20 to 29,Maori,Northland
+2005,Male,10 to 14,Maori,Tairawhiti
+2005,Male, 5 to 9  ,Maori,Waikato
+2005,Male, 5 to 9  ,Maori,Waikato
+2005,Male, 5 to 9  ,Maori,Waikato
+2005,Male,10 to 14,Maori,Waikato
+2005,Male,10 to 14,Pacific Peoples,Waikato
+2005,Male,10 to 14,Maori,Waikato
+2005,Male,10 to 14,Maori,Waikato
+2005,Male,20 to 29,Maori,Waikato
+2005,Female, 5 to 9  ,Unknown,Waitemata
+2005,Male,20 to 29,Unknown,Waitemata
+2005,Female,Unknown,Maori,Waitemata
+2006,Male, 5 to 9  ,Pacific Peoples,Auckland
+2006,Male,10 to 14,Pacific Peoples,Auckland
+2006,Male,10 to 14,Pacific Peoples,Auckland
+2006,Male,10 to 14,Pacific Peoples,Auckland
+2006,Unknown,10 to 14,Pacific Peoples,Auckland
+2006,Unknown,10 to 14,Pacific Peoples,Auckland
+2006,Unknown,10 to 14,Maori,Auckland
+2006,Unknown,30 to 39,Pacific Peoples,Auckland
+2006,Male, 5 to 9  ,Maori,Bay of Plenty
+2006,Male,10 to 14,Maori,Bay of Plenty
+2006,Male,10 to 14,Maori,Bay of Plenty
+2006,Male,20 to 29,European,Canterbury
+2006,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2006,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2006,Male,10 to 14,Pacific Peoples,Capital and Coast
+2006,Male,10 to 14,Pacific Peoples,Capital and Coast
+2006,Male,10 to 14,Maori,Capital and Coast
+2006,Male,10 to 14,Pacific Peoples,Capital and Coast
+2006,Male,10 to 14,Maori,Capital and Coast
+2006,Male,15 to 19,Pacific Peoples,Capital and Coast
+2006,Male,15 to 19,Maori,Capital and Coast
+2006,Male,15 to 19,Pacific Peoples,Capital and Coast
+2006,Male,20 to 29,Maori,Capital and Coast
+2006,Female, 5 to 9  ,Maori,Counties Manukau
+2006,Female, 5 to 9  ,Maori,Counties Manukau
+2006,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2006,Unknown, 5 to 9  ,Maori,Counties Manukau
+2006,Unknown, 5 to 9  ,Unknown,Counties Manukau
+2006,Unknown, 5 to 9  ,Unknown,Counties Manukau
+2006,Unknown, 5 to 9  ,Unknown,Counties Manukau
+2006,Female,10 to 14,Pacific Peoples,Counties Manukau
+2006,Female,10 to 14,Maori,Counties Manukau
+2006,Female,10 to 14,Pacific Peoples,Counties Manukau
+2006,Female,10 to 14,Unknown,Counties Manukau
+2006,Male,10 to 14,Maori,Counties Manukau
+2006,Male,10 to 14,Maori,Counties Manukau
+2006,Male,10 to 14,Pacific Peoples,Counties Manukau
+2006,Male,10 to 14,Maori,Counties Manukau
+2006,Male,10 to 14,Pacific Peoples,Counties Manukau
+2006,Male,10 to 14,Maori,Counties Manukau
+2006,Unknown,10 to 14,Unknown,Counties Manukau
+2006,Unknown,10 to 14,Maori,Counties Manukau
+2006,Unknown,10 to 14,Other,Counties Manukau
+2006,Female,15 to 19,Pacific Peoples,Counties Manukau
+2006,Female,15 to 19,Pacific Peoples,Counties Manukau
+2006,Female,15 to 19,Unknown,Counties Manukau
+2006,Male,15 to 19,Maori,Counties Manukau
+2006,Male,15 to 19,Unknown,Counties Manukau
+2006,Male,15 to 19,Pacific Peoples,Counties Manukau
+2006,Unknown,15 to 19,Unknown,Counties Manukau
+2006,Male,20 to 29,Maori,Counties Manukau
+2006,Male,20 to 29,Unknown,Counties Manukau
+2006,Male,20 to 29,Pacific Peoples,Counties Manukau
+2006,Unknown,20 to 29,Unknown,Counties Manukau
+2006,Unknown,20 to 29,Pacific Peoples,Counties Manukau
+2006,Unknown,20 to 29,Unknown,Counties Manukau
+2006,Unknown,30 to 39,Unknown,Counties Manukau
+2006,Unknown,Unknown,Unknown,Counties Manukau
+2006,Female, 5 to 9  ,Pacific Peoples,Hawke's Bay
+2006,Female, 5 to 9  ,Pacific Peoples,Hawke's Bay
+2006,Male, 5 to 9  ,Maori,Hawke's Bay
+2006,Male, 5 to 9  ,Pacific Peoples,Hawke's Bay
+2006,Male,10 to 14,Maori,Hawke's Bay
+2006,Male,10 to 14,Maori,Hawke's Bay
+2006,Female, 5 to 9  ,Maori,Hutt Valley
+2006,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2006,Female,15 to 19,Maori,Hutt Valley
+2006,Female,10 to 14,Maori,Lakes
+2006,Female,10 to 14,Maori,Lakes
+2006,Male,10 to 14,Maori,Lakes
+2006,Female,15 to 19,Maori,Lakes
+2006,Female, 5 to 9  ,Maori,MidCentral
+2006,Female, 5 to 9  ,Maori,Northland
+2006,Male, 5 to 9  ,Maori,Northland
+2006,Male, 5 to 9  ,Maori,Northland
+2006,Male, 5 to 9  ,Maori,Northland
+2006,Female,10 to 14,Maori,Northland
+2006,Female,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,10 to 14,Maori,Northland
+2006,Male,15 to 19,Maori,Northland
+2006,Female,10 to 14,Pacific Peoples,Southern
+2006,Female, 5 to 9  ,Pacific Peoples,Tairawhiti
+2006,Female, 5 to 9  ,Maori,Tairawhiti
+2006,Male,10 to 14,Maori,Tairawhiti
+2006,Female,10 to 14,Maori,Taranaki
+2006,Female, 5 to 9  ,Maori,Waikato
+2006,Female, 5 to 9  ,Maori,Waikato
+2006,Female, 5 to 9  ,Pacific Peoples,Waikato
+2006,Female,10 to 14,Maori,Waikato
+2006,Male,10 to 14,European,Waikato
+2006,Male,10 to 14,Maori,Waikato
+2006,Male,10 to 14,Maori,Waikato
+2006,Male,10 to 14,Maori,Waikato
+2006,Male,10 to 14,Maori,Waikato
+2006,Male,10 to 14,Maori,Waikato
+2006,Female,10 to 14,Maori,Waitemata
+2006,Unknown,15 to 19,Pacific Peoples,Waitemata
+2006,Female,30 to 39,Pacific Peoples,Waitemata
+2006,Male, 5 to 9  ,Maori,Whanganui
+2006,Male,10 to 14,Maori,Whanganui
+2006,Female,15 to 19,European,Whanganui
+2007,Female, 5 to 9  ,Pacific Peoples,Auckland
+2007,Female, 5 to 9  ,Pacific Peoples,Auckland
+2007,Female, 5 to 9  ,Pacific Peoples,Auckland
+2007,Female, 5 to 9  ,Pacific Peoples,Auckland
+2007,Female,10 to 14,Maori,Auckland
+2007,Female,10 to 14,Other,Auckland
+2007,Female,10 to 14,Pacific Peoples,Auckland
+2007,Male,10 to 14,Pacific Peoples,Auckland
+2007,Male,10 to 14,Pacific Peoples,Auckland
+2007,Male,10 to 14,Pacific Peoples,Auckland
+2007,Female,15 to 19,Pacific Peoples,Auckland
+2007,Female,15 to 19,Maori,Auckland
+2007,Male,15 to 19,Other,Auckland
+2007,Male,15 to 19,Pacific Peoples,Auckland
+2007,Male,15 to 19,Pacific Peoples,Auckland
+2007,Male,15 to 19,Pacific Peoples,Auckland
+2007,Unknown,15 to 19,Pacific Peoples,Auckland
+2007,Female,20 to 29,Pacific Peoples,Auckland
+2007,Unknown,20 to 29,Unknown,Auckland
+2007,Female, 5 to 9  ,Maori,Bay of Plenty
+2007,Male, 5 to 9  ,Maori,Bay of Plenty
+2007,Male,10 to 14,Maori,Bay of Plenty
+2007,Male,10 to 14,Maori,Bay of Plenty
+2007,Male,Unknown,Maori,Bay of Plenty
+2007,Female, 5 to 9  ,Pacific Peoples,Canterbury
+2007,Male, 5 to 9  ,European,Canterbury
+2007,Male,10 to 14,Maori,Canterbury
+2007,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2007,Male, 5 to 9  ,Maori,Capital and Coast
+2007,Female,10 to 14,Pacific Peoples,Capital and Coast
+2007,Male,10 to 14,Other,Capital and Coast
+2007,Male,10 to 14,Pacific Peoples,Capital and Coast
+2007,Male,15 to 19,Maori,Capital and Coast
+2007,Male,15 to 19,Pacific Peoples,Capital and Coast
+2007,Unknown, 1 to 4  ,Maori,Counties Manukau
+2007,Female, 5 to 9  ,Maori,Counties Manukau
+2007,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Male, 5 to 9  ,Maori,Counties Manukau
+2007,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Male, 5 to 9  ,Maori,Counties Manukau
+2007,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Male, 5 to 9  ,Unknown,Counties Manukau
+2007,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Male, 5 to 9  ,Maori,Counties Manukau
+2007,Unknown, 5 to 9  ,Pacific Peoples,Counties Manukau
+2007,Unknown, 5 to 9  ,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Pacific Peoples,Counties Manukau
+2007,Female,10 to 14,Pacific Peoples,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Maori,Counties Manukau
+2007,Female,10 to 14,Unknown,Counties Manukau
+2007,Female,10 to 14,Pacific Peoples,Counties Manukau
+2007,Female,10 to 14,Pacific Peoples,Counties Manukau
+2007,Female,10 to 14,Pacific Peoples,Counties Manukau
+2007,Male,10 to 14,Maori,Counties Manukau
+2007,Male,10 to 14,Pacific Peoples,Counties Manukau
+2007,Male,10 to 14,Maori,Counties Manukau
+2007,Male,10 to 14,Pacific Peoples,Counties Manukau
+2007,Male,10 to 14,Maori,Counties Manukau
+2007,Male,10 to 14,Pacific Peoples,Counties Manukau
+2007,Male,10 to 14,Maori,Counties Manukau
+2007,Female,15 to 19,Pacific Peoples,Counties Manukau
+2007,Female,15 to 19,Pacific Peoples,Counties Manukau
+2007,Female,15 to 19,Pacific Peoples,Counties Manukau
+2007,Female,15 to 19,Pacific Peoples,Counties Manukau
+2007,Male,15 to 19,Maori,Counties Manukau
+2007,Male,15 to 19,Pacific Peoples,Counties Manukau
+2007,Male,15 to 19,Maori,Counties Manukau
+2007,Male,15 to 19,Maori,Counties Manukau
+2007,Male,15 to 19,Maori,Counties Manukau
+2007,Male,15 to 19,Pacific Peoples,Counties Manukau
+2007,Male,15 to 19,Pacific Peoples,Counties Manukau
+2007,Male,15 to 19,Pacific Peoples,Counties Manukau
+2007,Female,20 to 29,European,Counties Manukau
+2007,Female,20 to 29,Maori,Counties Manukau
+2007,Female,20 to 29,Pacific Peoples,Counties Manukau
+2007,Female,20 to 29,Pacific Peoples,Counties Manukau
+2007,Male,20 to 29,Pacific Peoples,Counties Manukau
+2007,Female,30 to 39,Maori,Counties Manukau
+2007,Female,40 to 49,Pacific Peoples,Counties Manukau
+2007,Female, 5 to 9  ,Pacific Peoples,Hawke's Bay
+2007,Male, 5 to 9  ,Maori,Hawke's Bay
+2007,Female,10 to 14,Maori,Hawke's Bay
+2007,Male,10 to 14,Maori,Hawke's Bay
+2007,Male,10 to 14,Maori,Hawke's Bay
+2007,Female,15 to 19,Maori,Hawke's Bay
+2007,Female,15 to 19,Maori,Hawke's Bay
+2007,Female,15 to 19,Pacific Peoples,Hawke's Bay
+2007,Male, 5 to 9  ,Maori,Hutt Valley
+2007,Male,10 to 14,Maori,Hutt Valley
+2007,Male,10 to 14,European,Hutt Valley
+2007,Male,10 to 14,Pacific Peoples,Hutt Valley
+2007,Male,10 to 14,Pacific Peoples,Hutt Valley
+2007,Male,10 to 14,Other,Hutt Valley
+2007,Female, 5 to 9  ,Maori,Lakes
+2007,Male, 5 to 9  ,Maori,Lakes
+2007,Male, 5 to 9  ,Pacific Peoples,Lakes
+2007,Unknown,10 to 14,Pacific Peoples,MidCentral
+2007,Male, 5 to 9  ,Pacific Peoples,Northland
+2007,Male, 5 to 9  ,Maori,Northland
+2007,Male, 5 to 9  ,Maori,Northland
+2007,Female,10 to 14,Maori,Northland
+2007,Female,10 to 14,Maori,Northland
+2007,Male,10 to 14,Maori,Northland
+2007,Female, 5 to 9  ,Maori,Tairawhiti
+2007,Female,10 to 14,Maori,Tairawhiti
+2007,Male,10 to 14,Pacific Peoples,Tairawhiti
+2007,Female, 1 to 4  ,European,Waikato
+2007,Male, 5 to 9  ,Pacific Peoples,Waikato
+2007,Female,10 to 14,Pacific Peoples,Waikato
+2007,Female,10 to 14,Maori,Waikato
+2007,Male,10 to 14,Maori,Waikato
+2007,Male,10 to 14,Maori,Waikato
+2007,Male,15 to 19,Maori,Waikato
+2007,Male,15 to 19,Maori,Waikato
+2007,Female,20 to 29,Maori,Waikato
+2007,Male,20 to 29,European,Waikato
+2007,Female,30 to 39,European,Wairarapa
+2007,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2007,Female,10 to 14,Maori,Waitemata
+2007,Female,15 to 19,Maori,Waitemata
+2007,Female,15 to 19,Maori,Waitemata
+2007,Male,15 to 19,Pacific Peoples,Waitemata
+2007,Female,30 to 39,Maori,Waitemata
+2007,Unknown,30 to 39,Pacific Peoples,Waitemata
+2007,Unknown,30 to 39,Maori,Waitemata
+2007,Male,10 to 14,Maori,Whanganui
+2007,Male,10 to 14,Maori,Whanganui
+2007,Male,15 to 19,Maori,Whanganui
+2008,Female, 5 to 9  ,Maori,Auckland
+2008,Female,10 to 14,Pacific Peoples,Auckland
+2008,Female,10 to 14,Maori,Auckland
+2008,Female,10 to 14,Pacific Peoples,Auckland
+2008,Male,10 to 14,Pacific Peoples,Auckland
+2008,Male,15 to 19,Maori,Auckland
+2008,Male,20 to 29,Other,Auckland
+2008,Male,20 to 29,Other,Auckland
+2008,Female,40 to 49,Unknown,Auckland
+2008,Female, 5 to 9  ,Maori,Bay of Plenty
+2008,Female, 5 to 9  ,Maori,Bay of Plenty
+2008,Male, 5 to 9  ,Maori,Bay of Plenty
+2008,Male, 5 to 9  ,Pacific Peoples,Bay of Plenty
+2008,Female,10 to 14,Maori,Bay of Plenty
+2008,Male,10 to 14,Maori,Bay of Plenty
+2008,Male,10 to 14,Maori,Bay of Plenty
+2008,Male,10 to 14,Maori,Bay of Plenty
+2008,Male,15 to 19,Maori,Bay of Plenty
+2008,Male,20 to 29,Maori,Bay of Plenty
+2008,Female, 5 to 9  ,European,Canterbury
+2008,Female, 5 to 9  ,Maori,Capital and Coast
+2008,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+2008,Female, 5 to 9  ,European,Capital and Coast
+2008,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2008,Male, 5 to 9  ,Maori,Capital and Coast
+2008,Male, 5 to 9  ,Maori,Capital and Coast
+2008,Female,10 to 14,Pacific Peoples,Capital and Coast
+2008,Female,10 to 14,European,Capital and Coast
+2008,Female,10 to 14,Maori,Capital and Coast
+2008,Female,10 to 14,Pacific Peoples,Capital and Coast
+2008,Male,10 to 14,Maori,Capital and Coast
+2008,Male,10 to 14,Pacific Peoples,Capital and Coast
+2008,Male,20 to 29,Other,Capital and Coast
+2008,Female, 5 to 9  ,Maori,Counties Manukau
+2008,Female, 5 to 9  ,Maori,Counties Manukau
+2008,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2008,Male, 5 to 9  ,Maori,Counties Manukau
+2008,Female,10 to 14,Maori,Counties Manukau
+2008,Female,10 to 14,Maori,Counties Manukau
+2008,Female,10 to 14,Pacific Peoples,Counties Manukau
+2008,Male,10 to 14,Maori,Counties Manukau
+2008,Male,10 to 14,Maori,Counties Manukau
+2008,Male,10 to 14,Maori,Counties Manukau
+2008,Male,10 to 14,Pacific Peoples,Counties Manukau
+2008,Male,10 to 14,Maori,Counties Manukau
+2008,Male,10 to 14,Unknown,Counties Manukau
+2008,Female,15 to 19,Pacific Peoples,Counties Manukau
+2008,Male,15 to 19,Maori,Counties Manukau
+2008,Male,15 to 19,Pacific Peoples,Counties Manukau
+2008,Female,20 to 29,Maori,Counties Manukau
+2008,Female,20 to 29,Other,Counties Manukau
+2008,Male,20 to 29,Pacific Peoples,Counties Manukau
+2008,Male,20 to 29,Maori,Counties Manukau
+2008,Female,30 to 39,Pacific Peoples,Counties Manukau
+2008,Female, 5 to 9  ,Maori,Hawke's Bay
+2008,Male, 5 to 9  ,Maori,Hawke's Bay
+2008,Male, 5 to 9  ,Maori,Hawke's Bay
+2008,Female,10 to 14,Maori,Hawke's Bay
+2008,Female,10 to 14,Maori,Hawke's Bay
+2008,Female,10 to 14,Maori,Hawke's Bay
+2008,Male,10 to 14,Maori,Hawke's Bay
+2008,Male,10 to 14,Pacific Peoples,Hawke's Bay
+2008,Male,10 to 14,Maori,Hawke's Bay
+2008,Female, 5 to 9  ,Maori,Hutt Valley
+2008,Male, 5 to 9  ,Maori,Hutt Valley
+2008,Male,10 to 14,Maori,Hutt Valley
+2008,Female,15 to 19,Maori,Hutt Valley
+2008,Female,10 to 14,Maori,Lakes
+2008,Female,10 to 14,Maori,Lakes
+2008,Female,10 to 14,Maori,Lakes
+2008,Male,10 to 14,Maori,Lakes
+2008,Male,15 to 19,Maori,Lakes
+2008,Female,40 to 49,Maori,Lakes
+2008,Female, 5 to 9  ,Maori,MidCentral
+2008,Female,10 to 14,Maori,MidCentral
+2008,Female,10 to 14,Pacific Peoples,MidCentral
+2008,Male,10 to 14,Pacific Peoples,MidCentral
+2008,Male,10 to 14,Maori,MidCentral
+2008,Male,15 to 19,Maori,MidCentral
+2008,Male,15 to 19,European,MidCentral
+2008,Female, 5 to 9  ,Maori,Northland
+2008,Female, 5 to 9  ,Maori,Northland
+2008,Female, 5 to 9  ,Maori,Northland
+2008,Male, 5 to 9  ,Maori,Northland
+2008,Male, 5 to 9  ,Maori,Northland
+2008,Female,10 to 14,Maori,Northland
+2008,Female,10 to 14,Maori,Northland
+2008,Male,10 to 14,Maori,Northland
+2008,Male,10 to 14,Maori,Northland
+2008,Male,10 to 14,Maori,Northland
+2008,Female,15 to 19,Maori,Northland
+2008,Female, 5 to 9  ,Maori,Tairawhiti
+2008,Male, 5 to 9  ,European,Tairawhiti
+2008,Female,10 to 14,Maori,Tairawhiti
+2008,Female,10 to 14,Maori,Tairawhiti
+2008,Male,10 to 14,Maori,Tairawhiti
+2008,Female,15 to 19,Maori,Tairawhiti
+2008,Female,15 to 19,Pacific Peoples,Taranaki
+2008,Male, <1      ,Maori,Waikato
+2008,Female, 1 to 4  ,European,Waikato
+2008,Female, 5 to 9  ,Maori,Waikato
+2008,Female, 5 to 9  ,Maori,Waikato
+2008,Female, 5 to 9  ,Maori,Waikato
+2008,Male, 5 to 9  ,Maori,Waikato
+2008,Male, 5 to 9  ,Maori,Waikato
+2008,Male, 5 to 9  ,Maori,Waikato
+2008,Male, 5 to 9  ,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Female,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Pacific Peoples,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,10 to 14,Maori,Waikato
+2008,Male,15 to 19,European,Waikato
+2008,Male,20 to 29,Maori,Waikato
+2008,Male,30 to 39,European,Waikato
+2008,Male,30 to 39,Maori,Waikato
+2008,Female,30 to 39,Maori,Wairarapa
+2008,Male, 5 to 9  ,European,Waitemata
+2008,Male, 5 to 9  ,Maori,Waitemata
+2008,Male,10 to 14,Maori,Waitemata
+2008,Male,10 to 14,Maori,Waitemata
+2008,Male,10 to 14,Maori,Waitemata
+2008,Male,10 to 14,Pacific Peoples,Waitemata
+2008,Male,10 to 14,Maori,Waitemata
+2008,Female,15 to 19,European,Waitemata
+2008,Female,15 to 19,Pacific Peoples,Waitemata
+2008,Female,15 to 19,Pacific Peoples,Waitemata
+2008,Male,15 to 19,Pacific Peoples,Waitemata
+2008,Male,15 to 19,Pacific Peoples,Waitemata
+2008,Female,10 to 14,Maori,Whanganui
+2009,Male, 5 to 9  ,Maori,Auckland
+2009,Female,10 to 14,Pacific Peoples,Auckland
+2009,Female,10 to 14,Pacific Peoples,Auckland
+2009,Female,10 to 14,Pacific Peoples,Auckland
+2009,Male,10 to 14,Pacific Peoples,Auckland
+2009,Male,10 to 14,Pacific Peoples,Auckland
+2009,Male,10 to 14,Pacific Peoples,Auckland
+2009,Male,15 to 19,Maori,Auckland
+2009,Male,15 to 19,Pacific Peoples,Auckland
+2009,Male,20 to 29,Pacific Peoples,Auckland
+2009,Male,20 to 29,Maori,Auckland
+2009,Male, 5 to 9  ,Maori,Bay of Plenty
+2009,Female,10 to 14,Maori,Bay of Plenty
+2009,Female,10 to 14,Maori,Bay of Plenty
+2009,Male,10 to 14,Maori,Bay of Plenty
+2009,Male,10 to 14,Maori,Canterbury
+2009,Female,10 to 14,Pacific Peoples,Capital and Coast
+2009,Female,10 to 14,Pacific Peoples,Capital and Coast
+2009,Female,10 to 14,Pacific Peoples,Capital and Coast
+2009,Male,10 to 14,Maori,Capital and Coast
+2009,Female,15 to 19,Maori,Capital and Coast
+2009,Male,15 to 19,Pacific Peoples,Capital and Coast
+2009,Female,20 to 29,Pacific Peoples,Capital and Coast
+2009,Female, 1 to 4  ,Maori,Counties Manukau
+2009,Female, 5 to 9  ,Maori,Counties Manukau
+2009,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Maori,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Maori,Counties Manukau
+2009,Male, 5 to 9  ,Maori,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2009,Male, 5 to 9  ,Maori,Counties Manukau
+2009,Female,10 to 14,Pacific Peoples,Counties Manukau
+2009,Female,10 to 14,Pacific Peoples,Counties Manukau
+2009,Female,10 to 14,Maori,Counties Manukau
+2009,Female,10 to 14,Maori,Counties Manukau
+2009,Female,10 to 14,Maori,Counties Manukau
+2009,Female,10 to 14,Pacific Peoples,Counties Manukau
+2009,Female,10 to 14,Pacific Peoples,Counties Manukau
+2009,Female,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Maori,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Male,10 to 14,Pacific Peoples,Counties Manukau
+2009,Female,15 to 19,Maori,Counties Manukau
+2009,Female,15 to 19,Pacific Peoples,Counties Manukau
+2009,Male,15 to 19,Pacific Peoples,Counties Manukau
+2009,Female,20 to 29,Maori,Counties Manukau
+2009,Female,20 to 29,Pacific Peoples,Counties Manukau
+2009,Female,20 to 29,Unknown,Counties Manukau
+2009,Male,20 to 29,Maori,Counties Manukau
+2009,Female,30 to 39,Pacific Peoples,Counties Manukau
+2009,Female, 5 to 9  ,Maori,Hawke's Bay
+2009,Female,10 to 14,European,Hawke's Bay
+2009,Female,10 to 14,Maori,Hawke's Bay
+2009,Male,10 to 14,Pacific Peoples,Hawke's Bay
+2009,Male,10 to 14,Pacific Peoples,Hawke's Bay
+2009,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2009,Female,10 to 14,Pacific Peoples,Hutt Valley
+2009,Female,10 to 14,Pacific Peoples,Hutt Valley
+2009,Male,10 to 14,Maori,Hutt Valley
+2009,Female, 5 to 9  ,Maori,Lakes
+2009,Male, 5 to 9  ,Maori,Lakes
+2009,Male, 5 to 9  ,Pacific Peoples,Lakes
+2009,Female, 5 to 9  ,Maori,MidCentral
+2009,Female,10 to 14,Pacific Peoples,Nelson Marlborough
+2009,Female, 5 to 9  ,Maori,Northland
+2009,Male, 5 to 9  ,Maori,Northland
+2009,Male, 5 to 9  ,Maori,Northland
+2009,Female,10 to 14,Maori,Northland
+2009,Female,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,European,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Male,10 to 14,Maori,Northland
+2009,Female,15 to 19,Maori,Northland
+2009,Female,10 to 14,Maori,Tairawhiti
+2009,Female,10 to 14,Maori,Tairawhiti
+2009,Female,10 to 14,Maori,Tairawhiti
+2009,Male,10 to 14,Maori,Tairawhiti
+2009,Male,10 to 14,Maori,Tairawhiti
+2009,Male,10 to 14,Maori,Tairawhiti
+2009,Male,10 to 14,Maori,Tairawhiti
+2009,Male,10 to 14,Maori,Tairawhiti
+2009,Female,15 to 19,Maori,Tairawhiti
+2009,Male,15 to 19,Maori,Tairawhiti
+2009,Male, 5 to 9  ,European,Taranaki
+2009,Male, 1 to 4  ,Maori,Waikato
+2009,Female, 5 to 9  ,Maori,Waikato
+2009,Female, 5 to 9  ,Pacific Peoples,Waikato
+2009,Male, 5 to 9  ,Maori,Waikato
+2009,Male, 5 to 9  ,Maori,Waikato
+2009,Male, 5 to 9  ,Pacific Peoples,Waikato
+2009,Female,10 to 14,Maori,Waikato
+2009,Female,10 to 14,Maori,Waikato
+2009,Male,10 to 14,Maori,Waikato
+2009,Male,10 to 14,Maori,Waikato
+2009,Male,10 to 14,Maori,Waikato
+2009,Male,10 to 14,Maori,Waikato
+2009,Female,15 to 19,Maori,Waikato
+2009,Male,15 to 19,Maori,Waikato
+2009,Male,15 to 19,Maori,Waikato
+2009,Female,20 to 29,Maori,Waikato
+2009,Male,20 to 29,Maori,Waikato
+2009,Male,20 to 29,Maori,Waikato
+2009,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2009,Female, 5 to 9  ,Maori,Waitemata
+2009,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2009,Male, 5 to 9  ,Maori,Waitemata
+2009,Female,10 to 14,Maori,Waitemata
+2009,Female,10 to 14,Pacific Peoples,Waitemata
+2009,Male,10 to 14,European,Waitemata
+2009,Male,20 to 29,Maori,Waitemata
+2010,Female, 5 to 9  ,Maori,Auckland
+2010,Male, 5 to 9  ,Pacific Peoples,Auckland
+2010,Female,10 to 14,Pacific Peoples,Auckland
+2010,Female,10 to 14,Pacific Peoples,Auckland
+2010,Female,20 to 29,Pacific Peoples,Auckland
+2010,Female,20 to 29,Maori,Auckland
+2010,Female,50 to 59,Pacific Peoples,Auckland
+2010,Female, 5 to 9  ,Maori,Bay of Plenty
+2010,Female,10 to 14,Maori,Bay of Plenty
+2010,Female,10 to 14,Maori,Bay of Plenty
+2010,Male,10 to 14,Maori,Bay of Plenty
+2010,Male,10 to 14,Maori,Bay of Plenty
+2010,Male,15 to 19,Maori,Bay of Plenty
+2010,Male,40 to 49,Pacific Peoples,Bay of Plenty
+2010,Male,10 to 14,Pacific Peoples,Canterbury
+2010,Male,15 to 19,Maori,Canterbury
+2010,Female, 5 to 9  ,Pacific Peoples,Capital and Coast
+2010,Female,10 to 14,Pacific Peoples,Capital and Coast
+2010,Female,10 to 14,Pacific Peoples,Capital and Coast
+2010,Female,10 to 14,Pacific Peoples,Capital and Coast
+2010,Female,15 to 19,Pacific Peoples,Capital and Coast
+2010,Female,15 to 19,Maori,Capital and Coast
+2010,Female,15 to 19,Maori,Capital and Coast
+2010,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Female, 5 to 9  ,Maori,Counties Manukau
+2010,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Female, 5 to 9  ,Maori,Counties Manukau
+2010,Female, 5 to 9  ,Maori,Counties Manukau
+2010,Female, 5 to 9  ,Maori,Counties Manukau
+2010,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Maori,Counties Manukau
+2010,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Maori,Counties Manukau
+2010,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Maori,Counties Manukau
+2010,Male, 5 to 9  ,Maori,Counties Manukau
+2010,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2010,Male, 5 to 9  ,Maori,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Maori,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Maori,Counties Manukau
+2010,Female,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,10 to 14,Maori,Counties Manukau
+2010,Female,10 to 14,Maori,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Maori,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Male,10 to 14,Pacific Peoples,Counties Manukau
+2010,Female,15 to 19,Maori,Counties Manukau
+2010,Female,15 to 19,Pacific Peoples,Counties Manukau
+2010,Female,15 to 19,Maori,Counties Manukau
+2010,Female,15 to 19,Maori,Counties Manukau
+2010,Female,15 to 19,Pacific Peoples,Counties Manukau
+2010,Female,15 to 19,Maori,Counties Manukau
+2010,Male,15 to 19,Pacific Peoples,Counties Manukau
+2010,Male,15 to 19,Pacific Peoples,Counties Manukau
+2010,Male,15 to 19,Maori,Counties Manukau
+2010,Male,15 to 19,Maori,Counties Manukau
+2010,Female,20 to 29,Pacific Peoples,Counties Manukau
+2010,Male,20 to 29,Pacific Peoples,Counties Manukau
+2010,Male,20 to 29,Maori,Counties Manukau
+2010,Male,20 to 29,Maori,Counties Manukau
+2010,Female, 5 to 9  ,Maori,Hawke's Bay
+2010,Female, 5 to 9  ,Maori,Hawke's Bay
+2010,Female,10 to 14,Pacific Peoples,Hawke's Bay
+2010,Female,10 to 14,Maori,Hawke's Bay
+2010,Female,10 to 14,Maori,Hawke's Bay
+2010,Male,10 to 14,Maori,Hawke's Bay
+2010,Male,10 to 14,Maori,Hawke's Bay
+2010,Male,10 to 14,Maori,Hawke's Bay
+2010,Male,10 to 14,Maori,Hawke's Bay
+2010,Male, 5 to 9  ,Maori,Hutt Valley
+2010,Female,10 to 14,Pacific Peoples,Hutt Valley
+2010,Female,10 to 14,Maori,Hutt Valley
+2010,Male,10 to 14,Pacific Peoples,Hutt Valley
+2010,Male,10 to 14,Maori,Hutt Valley
+2010,Male,10 to 14,Maori,Hutt Valley
+2010,Female,20 to 29,Maori,Hutt Valley
+2010,Male,10 to 14,Maori,Lakes
+2010,Male,10 to 14,Maori,Lakes
+2010,Female,10 to 14,Maori,MidCentral
+2010,Male,10 to 14,Maori,MidCentral
+2010,Male,10 to 14,Maori,MidCentral
+2010,Male,10 to 14,Maori,MidCentral
+2010,Female, 5 to 9  ,Maori,Northland
+2010,Male, 5 to 9  ,Maori,Northland
+2010,Male, 5 to 9  ,Maori,Northland
+2010,Female,10 to 14,European,Northland
+2010,Female,10 to 14,Maori,Northland
+2010,Female,10 to 14,Maori,Northland
+2010,Male,10 to 14,Maori,Northland
+2010,Male,10 to 14,Maori,Northland
+2010,Male,10 to 14,Maori,Northland
+2010,Male,10 to 14,Maori,Northland
+2010,Female,15 to 19,Maori,Northland
+2010,Female,15 to 19,Maori,Northland
+2010,Male,15 to 19,Maori,Northland
+2010,Female,20 to 29,Maori,Northland
+2010,Female,20 to 29,Maori,Northland
+2010,Female,20 to 29,Maori,Northland
+2010,Male,20 to 29,Maori,Northland
+2010,Female, 5 to 9  ,European,Tairawhiti
+2010,Female,10 to 14,Maori,Tairawhiti
+2010,Male,10 to 14,Maori,Tairawhiti
+2010,Female,15 to 19,Maori,Tairawhiti
+2010,Female,20 to 29,Maori,Tairawhiti
+2010,Male,30 to 39,Maori,Tairawhiti
+2010,Female, 5 to 9  ,Maori,Taranaki
+2010,Female, 5 to 9  ,European,Taranaki
+2010,Female, 5 to 9  ,Pacific Peoples,Waikato
+2010,Female, 5 to 9  ,Maori,Waikato
+2010,Female, 5 to 9  ,Maori,Waikato
+2010,Female, 5 to 9  ,Maori,Waikato
+2010,Male, 5 to 9  ,Maori,Waikato
+2010,Female,10 to 14,Pacific Peoples,Waikato
+2010,Female,10 to 14,Maori,Waikato
+2010,Female,10 to 14,Maori,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Male,10 to 14,European,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Male,10 to 14,Maori,Waikato
+2010,Female,15 to 19,Maori,Waikato
+2010,Male,15 to 19,Maori,Waikato
+2010,Male,10 to 14,Maori,Wairarapa
+2010,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2010,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2010,Male, 5 to 9  ,Maori,Waitemata
+2010,Male, 5 to 9  ,Maori,Waitemata
+2010,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2010,Female,10 to 14,Maori,Waitemata
+2010,Female,10 to 14,Pacific Peoples,Waitemata
+2010,Female,10 to 14,Pacific Peoples,Waitemata
+2010,Male,10 to 14,Pacific Peoples,Waitemata
+2010,Male,10 to 14,Other,Waitemata
+2010,Female,20 to 29,Pacific Peoples,Waitemata
+2010,Male,10 to 14,Maori,Whanganui
+2010,Male,10 to 14,Maori,Whanganui
+2011,Female, 5 to 9  ,Pacific Peoples,Auckland
+2011,Male, 5 to 9  ,Pacific Peoples,Auckland
+2011,Female,10 to 14,Pacific Peoples,Auckland
+2011,Female,10 to 14,Pacific Peoples,Auckland
+2011,Female,10 to 14,Pacific Peoples,Auckland
+2011,Male,10 to 14,Pacific Peoples,Auckland
+2011,Male,10 to 14,Pacific Peoples,Auckland
+2011,Male,10 to 14,Maori,Auckland
+2011,Male,10 to 14,Maori,Auckland
+2011,Male,10 to 14,Pacific Peoples,Auckland
+2011,Male,10 to 14,Pacific Peoples,Auckland
+2011,Female,30 to 39,Pacific Peoples,Auckland
+2011,Female,30 to 39,Maori,Auckland
+2011,Female, 5 to 9  ,Maori,Bay of Plenty
+2011,Female, 5 to 9  ,Maori,Bay of Plenty
+2011,Female, 5 to 9  ,Maori,Bay of Plenty
+2011,Female,10 to 14,Maori,Bay of Plenty
+2011,Male,10 to 14,Maori,Bay of Plenty
+2011,Male,10 to 14,European,Bay of Plenty
+2011,Male,10 to 14,Maori,Bay of Plenty
+2011,Male,10 to 14,Pacific Peoples,Bay of Plenty
+2011,Female, 5 to 9  ,Maori,Canterbury
+2011,Male,10 to 14,Maori,Canterbury
+2011,Female, 5 to 9  ,Maori,Capital and Coast
+2011,Female,10 to 14,Pacific Peoples,Capital and Coast
+2011,Female,10 to 14,Pacific Peoples,Capital and Coast
+2011,Male,10 to 14,Maori,Capital and Coast
+2011,Male,10 to 14,Maori,Capital and Coast
+2011,Male,10 to 14,Maori,Capital and Coast
+2011,Male,10 to 14,Maori,Capital and Coast
+2011,Female,15 to 19,Pacific Peoples,Capital and Coast
+2011,Male,20 to 29,Pacific Peoples,Capital and Coast
+2011,Male,20 to 29,Pacific Peoples,Capital and Coast
+2011,Female,30 to 39,Pacific Peoples,Capital and Coast
+2011,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Female, 5 to 9  ,Maori,Counties Manukau
+2011,Female, 5 to 9  ,Maori,Counties Manukau
+2011,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Female, 5 to 9  ,Maori,Counties Manukau
+2011,Female, 5 to 9  ,Maori,Counties Manukau
+2011,Male, 5 to 9  ,Maori,Counties Manukau
+2011,Male, 5 to 9  ,Maori,Counties Manukau
+2011,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Maori,Counties Manukau
+2011,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Maori,Counties Manukau
+2011,Female,10 to 14,Pacific Peoples,Counties Manukau
+2011,Female,10 to 14,Pacific Peoples,Counties Manukau
+2011,Female,10 to 14,Maori,Counties Manukau
+2011,Female,10 to 14,Pacific Peoples,Counties Manukau
+2011,Female,10 to 14,Maori,Counties Manukau
+2011,Female,10 to 14,Maori,Counties Manukau
+2011,Female,10 to 14,Pacific Peoples,Counties Manukau
+2011,Female,10 to 14,Maori,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Maori,Counties Manukau
+2011,Male,10 to 14,Maori,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Male,10 to 14,Pacific Peoples,Counties Manukau
+2011,Female,15 to 19,Maori,Counties Manukau
+2011,Female,15 to 19,Pacific Peoples,Counties Manukau
+2011,Female,15 to 19,Maori,Counties Manukau
+2011,Female,20 to 29,Pacific Peoples,Counties Manukau
+2011,Female,20 to 29,Pacific Peoples,Counties Manukau
+2011,Female,20 to 29,Pacific Peoples,Counties Manukau
+2011,Male,20 to 29,Pacific Peoples,Counties Manukau
+2011,Male,30 to 39,Pacific Peoples,Counties Manukau
+2011,Male, 5 to 9  ,Maori,Hawke's Bay
+2011,Male, 5 to 9  ,Maori,Hawke's Bay
+2011,Female,10 to 14,Pacific Peoples,Hawke's Bay
+2011,Female,10 to 14,Maori,Hawke's Bay
+2011,Male,10 to 14,Maori,Hawke's Bay
+2011,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2011,Male, 5 to 9  ,Maori,Hutt Valley
+2011,Male, 5 to 9  ,Maori,Hutt Valley
+2011,Male,10 to 14,Pacific Peoples,Hutt Valley
+2011,Male,10 to 14,Pacific Peoples,Hutt Valley
+2011,Male,10 to 14,Maori,Hutt Valley
+2011,Male,15 to 19,Maori,Hutt Valley
+2011,Female,30 to 39,Maori,Hutt Valley
+2011,Male, 5 to 9  ,Maori,Lakes
+2011,Male, 5 to 9  ,Pacific Peoples,Lakes
+2011,Male, 5 to 9  ,Maori,Lakes
+2011,Male,10 to 14,Maori,Lakes
+2011,Male,10 to 14,Maori,Lakes
+2011,Male,10 to 14,Maori,Lakes
+2011,Female,20 to 29,Maori,Lakes
+2011,Female,10 to 14,Maori,MidCentral
+2011,Female,10 to 14,Maori,MidCentral
+2011,Female,10 to 14,Pacific Peoples,MidCentral
+2011,Female,15 to 19,Maori,MidCentral
+2011,Male,15 to 19,Pacific Peoples,MidCentral
+2011,Male,15 to 19,European,MidCentral
+2011,Male,15 to 19,Maori,MidCentral
+2011,Male,20 to 29,Maori,MidCentral
+2011,Male,10 to 14,European,Nelson Marlborough
+2011,Female,15 to 19,European,Nelson Marlborough
+2011,Female, 5 to 9  ,Maori,Northland
+2011,Male, 5 to 9  ,Maori,Northland
+2011,Male, 5 to 9  ,Maori,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Female,10 to 14,Pacific Peoples,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Female,10 to 14,Maori,Northland
+2011,Male,10 to 14,Maori,Northland
+2011,Male,10 to 14,Maori,Northland
+2011,Male,10 to 14,Maori,Northland
+2011,Male,10 to 14,Maori,Northland
+2011,Male,10 to 14,Maori,Northland
+2011,Female,20 to 29,Maori,Northland
+2011,Male,20 to 29,Maori,Northland
+2011,Female, 5 to 9  ,Maori,Tairawhiti
+2011,Male, 5 to 9  ,Maori,Tairawhiti
+2011,Male, 5 to 9  ,Maori,Tairawhiti
+2011,Female,10 to 14,Maori,Tairawhiti
+2011,Male,10 to 14,Maori,Tairawhiti
+2011,Male,10 to 14,Maori,Tairawhiti
+2011,Male,10 to 14,Pacific Peoples,Tairawhiti
+2011,Male,40 to 49,European,Tairawhiti
+2011,Male, 5 to 9  ,Maori,Waikato
+2011,Male, 5 to 9  ,Maori,Waikato
+2011,Female,10 to 14,Maori,Waikato
+2011,Male,10 to 14,Maori,Waikato
+2011,Male,10 to 14,Maori,Waikato
+2011,Male,10 to 14,Maori,Waikato
+2011,Male,10 to 14,Maori,Waikato
+2011,Male,10 to 14,Maori,Waikato
+2011,Female,15 to 19,Pacific Peoples,Waikato
+2011,Male,15 to 19,Maori,Waikato
+2011,Male,15 to 19,Maori,Waikato
+2011,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2011,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2011,Male,10 to 14,Maori,Waitemata
+2011,Male,10 to 14,Pacific Peoples,Waitemata
+2011,Female,20 to 29,Maori,Waitemata
+2011,Female, 5 to 9  ,Pacific Peoples,Whanganui
+2011,Female,15 to 19,Maori,Whanganui
+2011,Male,20 to 29,Maori,Whanganui
+2012,Female, 5 to 9  ,Maori,Auckland
+2012,Female, 5 to 9  ,Pacific Peoples,Auckland
+2012,Male, 5 to 9  ,Maori,Auckland
+2012,Male, 5 to 9  ,Maori,Auckland
+2012,Male, 5 to 9  ,Pacific Peoples,Auckland
+2012,Female,20 to 29,Pacific Peoples,Auckland
+2012,Female,20 to 29,Pacific Peoples,Auckland
+2012,Male,20 to 29,Pacific Peoples,Auckland
+2012,Male,20 to 29,Pacific Peoples,Auckland
+2012,Male,20 to 29,Pacific Peoples,Auckland
+2012,Male,20 to 29,Maori,Auckland
+2012,Male, 5 to 9  ,Maori,Bay of Plenty
+2012,Male, 5 to 9  ,Maori,Bay of Plenty
+2012,Female,15 to 19,Maori,Bay of Plenty
+2012,Male,10 to 14,Pacific Peoples,Canterbury
+2012,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2012,Female,10 to 14,Pacific Peoples,Capital and Coast
+2012,Female,10 to 14,Maori,Capital and Coast
+2012,Male,10 to 14,Pacific Peoples,Capital and Coast
+2012,Female,15 to 19,Maori,Capital and Coast
+2012,Male,15 to 19,Maori,Capital and Coast
+2012,Female,20 to 29,Maori,Capital and Coast
+2012,Male,20 to 29,Pacific Peoples,Capital and Coast
+2012,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Female, 5 to 9  ,Maori,Counties Manukau
+2012,Female, 5 to 9  ,Maori,Counties Manukau
+2012,Female, 5 to 9  ,Maori,Counties Manukau
+2012,Female, 5 to 9  ,Maori,Counties Manukau
+2012,Male, 5 to 9  ,Maori,Counties Manukau
+2012,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Maori,Counties Manukau
+2012,Male, 5 to 9  ,Maori,Counties Manukau
+2012,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Maori,Counties Manukau
+2012,Female,10 to 14,Maori,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Maori,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,Maori,Counties Manukau
+2012,Female,10 to 14,Pacific Peoples,Counties Manukau
+2012,Female,10 to 14,European,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Pacific Peoples,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Maori,Counties Manukau
+2012,Male,10 to 14,Other,Counties Manukau
+2012,Female,15 to 19,Pacific Peoples,Counties Manukau
+2012,Female,15 to 19,Pacific Peoples,Counties Manukau
+2012,Female,15 to 19,Pacific Peoples,Counties Manukau
+2012,Male,15 to 19,Pacific Peoples,Counties Manukau
+2012,Male,15 to 19,Pacific Peoples,Counties Manukau
+2012,Male,15 to 19,Maori,Counties Manukau
+2012,Male,15 to 19,Maori,Counties Manukau
+2012,Male,15 to 19,European,Counties Manukau
+2012,Male,15 to 19,European,Counties Manukau
+2012,Male,15 to 19,Pacific Peoples,Counties Manukau
+2012,Female,20 to 29,Maori,Counties Manukau
+2012,Female,20 to 29,Pacific Peoples,Counties Manukau
+2012,Female,20 to 29,Maori,Counties Manukau
+2012,Female,20 to 29,Maori,Counties Manukau
+2012,Female,20 to 29,Pacific Peoples,Counties Manukau
+2012,Female,20 to 29,Pacific Peoples,Counties Manukau
+2012,Female,20 to 29,Pacific Peoples,Counties Manukau
+2012,Female,20 to 29,Pacific Peoples,Counties Manukau
+2012,Male,20 to 29,Pacific Peoples,Counties Manukau
+2012,Female,30 to 39,Other,Counties Manukau
+2012,Female,30 to 39,Pacific Peoples,Counties Manukau
+2012,Male, 5 to 9  ,Maori,Hawke's Bay
+2012,Male, 5 to 9  ,Maori,Hawke's Bay
+2012,Male,15 to 19,Maori,Hawke's Bay
+2012,Male,15 to 19,Maori,Hawke's Bay
+2012,Female,20 to 29,Maori,Hawke's Bay
+2012,Female,20 to 29,Maori,Hawke's Bay
+2012,Female, 5 to 9  ,Maori,Hutt Valley
+2012,Female,15 to 19,Pacific Peoples,Hutt Valley
+2012,Female,20 to 29,Maori,Hutt Valley
+2012,Male, 5 to 9  ,Maori,Lakes
+2012,Female,10 to 14,Maori,Lakes
+2012,Male,10 to 14,Maori,Lakes
+2012,Male,10 to 14,Maori,Lakes
+2012,Female,20 to 29,Maori,Lakes
+2012,Male,15 to 19,Maori,MidCentral
+2012,Female, 5 to 9  ,Maori,Northland
+2012,Female, 5 to 9  ,Maori,Northland
+2012,Male, 5 to 9  ,Maori,Northland
+2012,Male, 5 to 9  ,Maori,Northland
+2012,Male, 5 to 9  ,Maori,Northland
+2012,Female,10 to 14,Maori,Northland
+2012,Female,10 to 14,Maori,Northland
+2012,Female,10 to 14,Maori,Northland
+2012,Male,10 to 14,Maori,Northland
+2012,Male,10 to 14,Maori,Northland
+2012,Male,10 to 14,Maori,Northland
+2012,Male,10 to 14,Maori,Northland
+2012,Male,10 to 14,Maori,Northland
+2012,Male,20 to 29,Maori,Northland
+2012,Male, 5 to 9  ,Maori,Tairawhiti
+2012,Male, 5 to 9  ,Maori,Tairawhiti
+2012,Female,10 to 14,Maori,Tairawhiti
+2012,Male,10 to 14,Maori,Tairawhiti
+2012,Male,10 to 14,Maori,Tairawhiti
+2012,Female,15 to 19,Maori,Tairawhiti
+2012,Male,15 to 19,Maori,Tairawhiti
+2012,Female,20 to 29,European,Tairawhiti
+2012,Male, 5 to 9  ,Maori,Taranaki
+2012,Male,40 to 49,Maori,Taranaki
+2012,Female, 5 to 9  ,Maori,Waikato
+2012,Female, 5 to 9  ,Maori,Waikato
+2012,Male, 5 to 9  ,Maori,Waikato
+2012,Male, 5 to 9  ,Maori,Waikato
+2012,Female,10 to 14,Maori,Waikato
+2012,Female,10 to 14,Maori,Waikato
+2012,Female,10 to 14,Maori,Waikato
+2012,Female,10 to 14,Maori,Waikato
+2012,Female,10 to 14,Maori,Waikato
+2012,Male,10 to 14,European,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Male,10 to 14,Pacific Peoples,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Male,10 to 14,Maori,Waikato
+2012,Female,15 to 19,Maori,Waikato
+2012,Male,20 to 29,Maori,Waikato
+2012,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2012,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2012,Female,10 to 14,Pacific Peoples,Waitemata
+2012,Female,10 to 14,European,Waitemata
+2012,Female,10 to 14,Pacific Peoples,Waitemata
+2012,Male,10 to 14,Maori,Waitemata
+2012,Male,10 to 14,Maori,Waitemata
+2012,Male,10 to 14,Pacific Peoples,Waitemata
+2012,Male,10 to 14,Pacific Peoples,Waitemata
+2012,Male,10 to 14,Other,Waitemata
+2012,Female,15 to 19,European,Waitemata
+2012,Male,15 to 19,Pacific Peoples,Waitemata
+2012,Female,20 to 29,Pacific Peoples,Waitemata
+2013,Female, 5 to 9  ,European,Auckland
+2013,Male, 5 to 9  ,Pacific Peoples,Auckland
+2013,Male, 5 to 9  ,Pacific Peoples,Auckland
+2013,Male, 5 to 9  ,Pacific Peoples,Auckland
+2013,Male, 5 to 9  ,Pacific Peoples,Auckland
+2013,Female,10 to 14,Maori,Auckland
+2013,Female,10 to 14,Pacific Peoples,Auckland
+2013,Female,10 to 14,Pacific Peoples,Auckland
+2013,Female,10 to 14,Other,Auckland
+2013,Male,10 to 14,Maori,Auckland
+2013,Male,10 to 14,Pacific Peoples,Auckland
+2013,Male,10 to 14,Pacific Peoples,Auckland
+2013,Male,10 to 14,Pacific Peoples,Auckland
+2013,Male,10 to 14,Pacific Peoples,Auckland
+2013,Male,10 to 14,Other,Auckland
+2013,Female,15 to 19,Maori,Auckland
+2013,Male,15 to 19,Pacific Peoples,Auckland
+2013,Female,20 to 29,Pacific Peoples,Auckland
+2013,Female,20 to 29,Pacific Peoples,Auckland
+2013,Female,20 to 29,Maori,Auckland
+2013,Female,20 to 29,Pacific Peoples,Auckland
+2013,Male, 5 to 9  ,Maori,Bay of Plenty
+2013,Male, 5 to 9  ,Maori,Bay of Plenty
+2013,Female,10 to 14,Maori,Bay of Plenty
+2013,Female,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Pacific Peoples,Bay of Plenty
+2013,Male,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Maori,Bay of Plenty
+2013,Male,10 to 14,Pacific Peoples,Bay of Plenty
+2013,Male,15 to 19,Maori,Bay of Plenty
+2013,Female,20 to 29,Maori,Bay of Plenty
+2013,Male,30 to 39,Maori,Bay of Plenty
+2013,Female, 5 to 9  ,Other,Canterbury
+2013,Female, 5 to 9  ,European,Canterbury
+2013,Male, 5 to 9  ,Pacific Peoples,Canterbury
+2013,Male,10 to 14,Pacific Peoples,Canterbury
+2013,Male,15 to 19,Maori,Canterbury
+2013,Female,20 to 29,Pacific Peoples,Canterbury
+2013,Male,20 to 29,Pacific Peoples,Canterbury
+2013,Male,20 to 29,European,Canterbury
+2013,Male, 5 to 9  ,Maori,Capital and Coast
+2013,Female,10 to 14,Pacific Peoples,Capital and Coast
+2013,Male,10 to 14,Maori,Capital and Coast
+2013,Male,10 to 14,Pacific Peoples,Capital and Coast
+2013,Female,15 to 19,Pacific Peoples,Capital and Coast
+2013,Male,15 to 19,Pacific Peoples,Capital and Coast
+2013,Female,30 to 39,Pacific Peoples,Capital and Coast
+2013,Female, 5 to 9  ,Maori,Counties Manukau
+2013,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Female, 5 to 9  ,Maori,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Male, 5 to 9  ,Maori,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Maori,Counties Manukau
+2013,Male,10 to 14,Maori,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Maori,Counties Manukau
+2013,Male,10 to 14,Maori,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Maori,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Male,10 to 14,Pacific Peoples,Counties Manukau
+2013,Female,15 to 19,Maori,Counties Manukau
+2013,Female,15 to 19,Pacific Peoples,Counties Manukau
+2013,Male,15 to 19,Pacific Peoples,Counties Manukau
+2013,Male,15 to 19,Pacific Peoples,Counties Manukau
+2013,Male,15 to 19,Pacific Peoples,Counties Manukau
+2013,Male,15 to 19,Pacific Peoples,Counties Manukau
+2013,Male,15 to 19,Pacific Peoples,Counties Manukau
+2013,Female,20 to 29,Pacific Peoples,Counties Manukau
+2013,Female,20 to 29,Pacific Peoples,Counties Manukau
+2013,Female,20 to 29,Pacific Peoples,Counties Manukau
+2013,Female,20 to 29,Maori,Counties Manukau
+2013,Female,20 to 29,Maori,Counties Manukau
+2013,Female,20 to 29,Maori,Counties Manukau
+2013,Female,20 to 29,Pacific Peoples,Counties Manukau
+2013,Female,20 to 29,Pacific Peoples,Counties Manukau
+2013,Male,20 to 29,Other,Counties Manukau
+2013,Female,30 to 39,Maori,Counties Manukau
+2013,Male, 5 to 9  ,Pacific Peoples,Hawke's Bay
+2013,Male, 5 to 9  ,Maori,Hawke's Bay
+2013,Female,10 to 14,Pacific Peoples,Hawke's Bay
+2013,Male,10 to 14,Maori,Hawke's Bay
+2013,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2013,Female, 5 to 9  ,Pacific Peoples,Hutt Valley
+2013,Female,10 to 14,Maori,Hutt Valley
+2013,Male,10 to 14,Maori,Hutt Valley
+2013,Male,10 to 14,Pacific Peoples,Hutt Valley
+2013,Male,10 to 14,Maori,Hutt Valley
+2013,Male,10 to 14,Other,Hutt Valley
+2013,Male,15 to 19,Maori,Hutt Valley
+2013,Male,20 to 29,Pacific Peoples,Hutt Valley
+2013,Female,30 to 39,Pacific Peoples,Hutt Valley
+2013,Female,10 to 14,Unknown,Lakes
+2013,Female,10 to 14,Maori,Lakes
+2013,Female,10 to 14,Maori,Lakes
+2013,Male,15 to 19,Maori,Lakes
+2013,Male,15 to 19,Maori,Lakes
+2013,Male,20 to 29,Maori,Lakes
+2013,Male,20 to 29,Pacific Peoples,Lakes
+2013,Female,10 to 14,Pacific Peoples,MidCentral
+2013,Female, 5 to 9  ,Maori,Northland
+2013,Female, 5 to 9  ,Maori,Northland
+2013,Male, 5 to 9  ,Maori,Northland
+2013,Male, 5 to 9  ,Maori,Northland
+2013,Female,10 to 14,Maori,Northland
+2013,Female,10 to 14,Maori,Northland
+2013,Female,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,10 to 14,Maori,Northland
+2013,Male,15 to 19,Maori,Northland
+2013,Male,15 to 19,Maori,Northland
+2013,Female,20 to 29,Maori,Northland
+2013,Female,20 to 29,Maori,Northland
+2013,Male,20 to 29,Maori,Northland
+2013,Female,15 to 19,European,Southern
+2013,Female, 5 to 9  ,Maori,Tairawhiti
+2013,Female,10 to 14,Maori,Tairawhiti
+2013,Male,10 to 14,Maori,Tairawhiti
+2013,Male,10 to 14,Maori,Tairawhiti
+2013,Male,10 to 14,European,Tairawhiti
+2013,Male,10 to 14,Maori,Tairawhiti
+2013,Female,15 to 19,Maori,Tairawhiti
+2013,Male,15 to 19,Maori,Tairawhiti
+2013,Female,10 to 14,Maori,Taranaki
+2013,Female, 5 to 9  ,Maori,Waikato
+2013,Female, 5 to 9  ,Pacific Peoples,Waikato
+2013,Female, 5 to 9  ,Maori,Waikato
+2013,Male, 5 to 9  ,Maori,Waikato
+2013,Male, 5 to 9  ,Maori,Waikato
+2013,Male, 5 to 9  ,Maori,Waikato
+2013,Male, 5 to 9  ,Other,Waikato
+2013,Female,10 to 14,Maori,Waikato
+2013,Female,10 to 14,Maori,Waikato
+2013,Male,10 to 14,Maori,Waikato
+2013,Male,10 to 14,Pacific Peoples,Waikato
+2013,Male,10 to 14,Maori,Waikato
+2013,Male,10 to 14,Maori,Waikato
+2013,Male,10 to 14,Maori,Waikato
+2013,Female,15 to 19,Maori,Waikato
+2013,Female,15 to 19,European,Waikato
+2013,Female,15 to 19,Maori,Waikato
+2013,Male,15 to 19,Pacific Peoples,Waikato
+2013,Female,20 to 29,Maori,Waikato
+2013,Female,20 to 29,Maori,Waikato
+2013,Female,20 to 29,Pacific Peoples,Waikato
+2013,Female, 5 to 9  ,Pacific Peoples,Waitemata
+2013,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2013,Male, 5 to 9  ,Maori,Waitemata
+2013,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2013,Female,10 to 14,Maori,Waitemata
+2013,Female,10 to 14,Pacific Peoples,Waitemata
+2013,Male,10 to 14,Maori,Waitemata
+2013,Male,10 to 14,Pacific Peoples,Waitemata
+2013,Male,10 to 14,Maori,Waitemata
+2013,Female,15 to 19,Pacific Peoples,Waitemata
+2013,Female, 5 to 9  ,Maori,Whanganui
+2013,Male,10 to 14,Maori,Whanganui
+2014,Female, 1 to 4  ,Pacific Peoples,Auckland
+2014,Female, 5 to 9  ,Maori,Auckland
+2014,Female, 5 to 9  ,Pacific Peoples,Auckland
+2014,Female,10 to 14,Pacific Peoples,Auckland
+2014,Female,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Male,10 to 14,Pacific Peoples,Auckland
+2014,Female,15 to 19,Pacific Peoples,Auckland
+2014,Female,15 to 19,Pacific Peoples,Auckland
+2014,Female,30 to 39,Pacific Peoples,Auckland
+2014,Male, 1 to 4  ,Maori,Bay of Plenty
+2014,Female, 5 to 9  ,Maori,Bay of Plenty
+2014,Female, 5 to 9  ,Maori,Bay of Plenty
+2014,Male, 5 to 9  ,Maori,Bay of Plenty
+2014,Male,10 to 14,Maori,Bay of Plenty
+2014,Male,10 to 14,Maori,Bay of Plenty
+2014,Male,15 to 19,Maori,Bay of Plenty
+2014,Male, 5 to 9  ,Maori,Canterbury
+2014,Male,10 to 14,Maori,Canterbury
+2014,Female, 5 to 9  ,Maori,Capital and Coast
+2014,Male, 5 to 9  ,Pacific Peoples,Capital and Coast
+2014,Male,10 to 14,Pacific Peoples,Capital and Coast
+2014,Male,10 to 14,Pacific Peoples,Capital and Coast
+2014,Female,15 to 19,European,Capital and Coast
+2014,Male,15 to 19,Pacific Peoples,Capital and Coast
+2014,Male,15 to 19,Maori,Capital and Coast
+2014,Male,20 to 29,Pacific Peoples,Capital and Coast
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Maori,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Male, 5 to 9  ,Pacific Peoples,Counties Manukau
+2014,Male, 5 to 9  ,Maori,Counties Manukau
+2014,Male, 5 to 9  ,Maori,Counties Manukau
+2014,Male, 5 to 9  ,Maori,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Maori,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Maori,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Maori,Counties Manukau
+2014,Female,10 to 14,Maori,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,European,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Maori,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Male,10 to 14,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Maori,Counties Manukau
+2014,Female,15 to 19,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Pacific Peoples,Counties Manukau
+2014,Female,15 to 19,Maori,Counties Manukau
+2014,Female,15 to 19,Maori,Counties Manukau
+2014,Male,15 to 19,Pacific Peoples,Counties Manukau
+2014,Male,15 to 19,Pacific Peoples,Counties Manukau
+2014,Male,15 to 19,Maori,Counties Manukau
+2014,Male,15 to 19,Pacific Peoples,Counties Manukau
+2014,Male,15 to 19,Pacific Peoples,Counties Manukau
+2014,Male,15 to 19,Pacific Peoples,Counties Manukau
+2014,Male,15 to 19,Maori,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Maori,Counties Manukau
+2014,Female,20 to 29,European,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,20 to 29,Pacific Peoples,Counties Manukau
+2014,Male,20 to 29,Pacific Peoples,Counties Manukau
+2014,Male,20 to 29,Pacific Peoples,Counties Manukau
+2014,Male,20 to 29,Maori,Counties Manukau
+2014,Male,20 to 29,Pacific Peoples,Counties Manukau
+2014,Male,20 to 29,Pacific Peoples,Counties Manukau
+2014,Male,20 to 29,Pacific Peoples,Counties Manukau
+2014,Female,30 to 39,Pacific Peoples,Counties Manukau
+2014,Female,30 to 39,Pacific Peoples,Counties Manukau
+2014,Female, 5 to 9  ,Maori,Hawke's Bay
+2014,Male,10 to 14,Maori,Hawke's Bay
+2014,Male,15 to 19,Pacific Peoples,Hawke's Bay
+2014,Male,20 to 29,Maori,Hawke's Bay
+2014,Male,10 to 14,Pacific Peoples,Hutt Valley
+2014,Male,10 to 14,Maori,Hutt Valley
+2014,Female,15 to 19,Maori,Hutt Valley
+2014,Female, 5 to 9  ,Maori,Lakes
+2014,Male, 5 to 9  ,Maori,Lakes
+2014,Female,10 to 14,Pacific Peoples,Lakes
+2014,Male,10 to 14,Maori,Lakes
+2014,Male,10 to 14,Maori,Lakes
+2014,Male,20 to 29,Maori,Lakes
+2014,Male,10 to 14,European,MidCentral
+2014,Female, 5 to 9  ,Maori,Northland
+2014,Female, 5 to 9  ,European,Northland
+2014,Male, 5 to 9  ,Maori,Northland
+2014,Male, 5 to 9  ,Maori,Northland
+2014,Male, 5 to 9  ,Maori,Northland
+2014,Female,10 to 14,Maori,Northland
+2014,Female,10 to 14,Maori,Northland
+2014,Female,10 to 14,Maori,Northland
+2014,Male,10 to 14,Maori,Northland
+2014,Male,10 to 14,Maori,Northland
+2014,Male,10 to 14,Maori,Northland
+2014,Male,10 to 14,Maori,Northland
+2014,Male,10 to 14,Maori,Northland
+2014,Male,15 to 19,Maori,Northland
+2014,Female,20 to 29,Maori,Northland
+2014,Male,30 to 39,Maori,Northland
+2014,Female, 5 to 9  ,Maori,Tairawhiti
+2014,Male, 5 to 9  ,Maori,Tairawhiti
+2014,Female,10 to 14,Maori,Tairawhiti
+2014,Female,10 to 14,Maori,Tairawhiti
+2014,Male,10 to 14,Maori,Tairawhiti
+2014,Male,10 to 14,Maori,Tairawhiti
+2014,Male,10 to 14,Maori,Tairawhiti
+2014,Male,10 to 14,Maori,Tairawhiti
+2014,Male,10 to 14,Maori,Tairawhiti
+2014,Female,15 to 19,Maori,Tairawhiti
+2014,Female, 5 to 9  ,Maori,Waikato
+2014,Female, 5 to 9  ,Pacific Peoples,Waikato
+2014,Female, 5 to 9  ,Maori,Waikato
+2014,Male, 5 to 9  ,Maori,Waikato
+2014,Male, 5 to 9  ,Maori,Waikato
+2014,Male, 5 to 9  ,Pacific Peoples,Waikato
+2014,Male, 5 to 9  ,Maori,Waikato
+2014,Female,10 to 14,Maori,Waikato
+2014,Male,10 to 14,Maori,Waikato
+2014,Male,10 to 14,Pacific Peoples,Waikato
+2014,Male,10 to 14,Maori,Waikato
+2014,Male,10 to 14,Maori,Waikato
+2014,Male,10 to 14,Maori,Waikato
+2014,Male,10 to 14,Maori,Waikato
+2014,Female,20 to 29,Maori,Waikato
+2014,Male,20 to 29,Pacific Peoples,Waikato
+2014,Male,20 to 29,Maori,Waikato
+2014,Male, 5 to 9  ,Pacific Peoples,Wairarapa
+2014,Female, 5 to 9  ,Maori,Waitemata
+2014,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2014,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2014,Male, 5 to 9  ,Pacific Peoples,Waitemata
+2014,Female,10 to 14,Pacific Peoples,Waitemata
+2014,Male,10 to 14,Pacific Peoples,Waitemata
+2014,Male,10 to 14,Pacific Peoples,Waitemata
+2014,Male,15 to 19,Pacific Peoples,Waitemata
+2014,Female,20 to 29,Pacific Peoples,Waitemata
+2014,Female,20 to 29,Pacific Peoples,Waitemata
+2014,Female,20 to 29,Pacific Peoples,Waitemata
+2014,Female,20 to 29,Pacific Peoples,Waitemata
+2014,Female,20 to 29,Pacific Peoples,Waitemata
+2014,Female,10 to 14,Maori,West Coast
