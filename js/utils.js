@@ -184,7 +184,9 @@ function apply_text(_title_text) {
         d3.selectAll('#tabs').selectAll('.reset')
           .classed('hidden', function(d) {return d.content != thisTab || !d.chart.hasFilter()})
         
-        hidden = d3.select(this).data()[0].type != "choropleth" || (projection.scale() == 1600 && JSON.stringify(projection.translate()) == JSON.stringify([220,320]))
+        hidden = d3.select(this).data()[0].type != "choropleth" || (projection.scale() == 1700 && JSON.stringify(projection.translate()) == JSON.stringify([160,340]))
+        
+        
         console.log(d3.select(this).data()[0].type)
         d3.select('#resetPosition').classed('hidden', function(){return hidden})
       });
@@ -194,7 +196,7 @@ function apply_text(_title_text) {
 //-----Hide reset position on Choropleth tabs if not repositioned or not in a Choropleth 
 
 function hideReset(force) {
-  d3.select('#resetPosition').classed('hidden',function(){return force || projection.scale() == 1600 && JSON.stringify(projection.translate()) == JSON.stringify([220,320])});
+  d3.select('#resetPosition').classed('hidden',function(){return force || projection.scale() == 1700 && JSON.stringify(projection.translate()) == JSON.stringify([160,340])});
 } 
 
 //-----------------------------------marginize--------------------------

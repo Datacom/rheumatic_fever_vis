@@ -213,7 +213,7 @@ function showCharts(err, data, region_dict, title_text, region_bounds) {
       .transitionDuration(200)
       .height(600)
       .width(map_width-10)
-      .overlayGeoJson(_region_bounds.features, 'Region', function(d) {return d.properties.NAME.replace('Midc','MidC')})
+      .overlayGeoJson(_region_bounds.features, 'Region', function(d) {return d.properties.NAME.replace('Midc','MidC').replace('Hutt','Hutt Valley')})
       .colors(colourscale)
       .title(function(d) {return !d.value ? d.key + ": 0" : d.key + ": " + title_integer_format(d.value)})
       .on("preRender.color", colourRenderlet)
