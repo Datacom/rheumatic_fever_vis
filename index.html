@@ -1,5 +1,6 @@
 <html>
   <head>
+      <title>Rheumatic Fever</title>
     <link href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.css' rel="stylesheet" type="text/css"/> 
     <link href='css/dc.css' rel="stylesheet" type="text/css"/>
 
@@ -21,7 +22,9 @@
         <div class="col-sm-12">
           <legend>
           Rheumatic fever: count of initial episodes. 
-            <a class="pull-right reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+            <a class="pull-right reset" href="javascript:dc.filterAll();region_map.projection(projection.scale(1700).translate([160,340]));
+                                                zoom.scale(1700).translate([160,340]); 
+                                                hideReset();dc.redrawAll();">Reset All</a>
           </legend>
           <p> Data sourced from <a href="http://www.esr.cri.nz/">The Institute of Environmental Science and Research (ESR)</a>.</p>
         </div>

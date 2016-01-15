@@ -88,7 +88,9 @@ function showCharts(err, data, region_dict, title_text, region_bounds) {
     //.xUnits() will often look something like ".xUnits(dc.units.fp.precision(<width of bar>))", but here is 1, so we dont need to bother.
     .transitionDuration(200)
     .height(140)
-    .colors(default_colors)
+    .ordinalColors(["#b88bcb"])
+    //.colorAccessor(function(){return "#b88bcb"})
+    //.colors(default_colors)
     .elasticX(false)
     .elasticY(true)
     .centerBar(true)
